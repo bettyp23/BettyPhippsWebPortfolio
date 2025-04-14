@@ -52,8 +52,11 @@ export default function Home1() {
 						style={{
 							width: '300px', // Increased the width
 							height: 'auto', // Keep the aspect ratio intact
-					}}
+						}}
 					/>
+					    <div className="position-absolute top-50 start-0 translate-middle z-0 mt-8 ms-10 ps-8">
+      					  <img className="ribbonRotate" src="/assets/imgs/hero/hero-1/decorate.png" alt="Decorative Spin" />
+    					</div>
 					</div>
 				<div className="position-absolute top-0 start-0 w-100 h-100 filter-invert" data-background="assets/imgs/hero/hero-1/background.png" />
 			</section>
