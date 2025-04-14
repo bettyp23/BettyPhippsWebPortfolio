@@ -13,11 +13,11 @@ export default function Projects1() {
 				<div className="container">
 					<div className="row align-items-end">
 						<div className="col-lg-7 me-auto">
-							<h3 className="ds-3 mt-3 mb-3 text-primary-1">My Latest Works</h3>
+							<h3 className="ds-3 mt-3 mb-3 text-primary-1">My GitHub Projects</h3>
 							<span className="fs-5 fw-medium text-200">
-								I believe that working hard and trying to learn every day will
+								My GitHub is filled with projects that reflect my passion for computer science,
 								<br />
-								make me improve in satisfying my customers.
+								entrepreneurship, and solving real-world problems through code.
 							</span>
 						</div>
 						<div className="col-lg-auto">
@@ -37,7 +37,7 @@ export default function Projects1() {
 					<Link href="/work" className="icon_hover position-relative z-1 icon-shape icon_150 border-linear-2 rounded-circle position-relative overflow-hidden bg-white hover-up">
 						<span className="icon-shape icon-md bg-linear-2 rounded-circle position-absolute bottom-0 end-0" />
 						<p className="m-0 fs-7 fw-bold text-capitalize position-absolute top-50 start-50 translate-middle">
-							View All
+							View All Projects
 							<i className="ri-arrow-right-up-line fs-7" />
 						</p>
 					</Link>
