@@ -24,16 +24,16 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isOffC
 						</div>
 						<div className="navbar-social d-flex align-items-center pe-5 pe-lg-0 me-5 me-lg-0">
 							<div className="d-md-flex d-none gap-3">
-								<Link href="/http://facebook.com">
+								<Link href="https://www.facebook.com/share/1AQUEPL44w/?mibextid=wwXIfr">
 									<i className="ri-facebook-circle-fill fs-18" />
 								</Link>
-								<Link href="/http://twitter.com">
+								{/* <Link href="/http://twitter.com">
 									<i className="ri-twitter-x-fill fs-18" />
-								</Link>
-								<Link href="/http://linkedin.com">
+								</Link> */}
+								<Link href="https://www.linkedin.com/in/bettyphipps/">
 									<i className="ri-linkedin-fill fs-18" />
 								</Link>
-								<Link href="/http://github.com">
+								<Link href="https://github.com/bettyp23">
 									<i className="ri-github-fill fs-18" />
 								</Link>
 							</div>
