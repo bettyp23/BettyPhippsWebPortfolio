@@ -9,15 +9,15 @@ export default function Service1() {
 				<div className="container">
 					<div className="row align-items-end">
 						<div className="col-lg-7 me-auto">
-							<h3 className="ds-3 mt-3 mb-3 text-primary-1">What do I offer?</h3>
-							<span className="fs-5 fw-medium text-200">My journey started with a fascination for design and technology,
+							<h3 className="ds-3 mt-3 mb-3 text-primary-1">What I'm Passionate About</h3>
+							<span className="fs-5 fw-medium text-200">focusing on the skills I'm mastering and the areas of tech that excite me,
 								<br />
-								leading me to specialize in UI/UX design
+								all while working towards making a meaningful impact.
 							</span>
 						</div>
 						<div className="col-lg-auto">
 							<Link href="/#contact" className="btn btn-gradient mt-lg-0 mt-5 ms-lg-auto">
-								Get a Quote
+								Learn more
 								<i className="ri-arrow-right-up-line" />
 							</Link>
 						</div>
@@ -29,13 +29,13 @@ export default function Service1() {
 									<h3 className="service-card-title w-lg-50 w-100 mb-0">
 										<Link href="/work-single">
 											<span className="service-number">01.</span>
-											UI/UX Design
+											Technology / Software Solutions
 										</Link>
 									</h3>
 									<Link href="/#" className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100">
 										<p className="service-card-text my-3">
-											Designing visually stunning and user-friendly interfaces for web <br />
-											and mobile applications.
+										I’m passionate about solving complex challenges with simple, efficient solutions that meet technical <br />
+										needs while pushing creative boundaries.
 										</p>
 										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
 											<i className="ri-arrow-right-up-line" />
@@ -50,13 +50,13 @@ export default function Service1() {
 									<h3 className="service-card-title w-lg-50 w-100 mb-0">
 										<Link href="/work-single">
 											<span className="service-number">02.</span>
-											Mobile App Design
+											Data Science & AI
 										</Link>
 									</h3>
 									<Link href="/#" className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100">
 										<p className="service-card-text my-3">
-											Designing intuitive and appealing mobile applications for both <br />
-											iOS and Android platforms.
+											turning data into insights that help solve problems <br />
+											and drive smarter decisions for people and businesses.
 										</p>
 										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
 											<i className="ri-arrow-right-up-line" />
@@ -71,13 +71,13 @@ export default function Service1() {
 									<h3 className="service-card-title w-lg-50 w-100 mb-0">
 										<Link href="/work-single">
 											<span className="service-number">03.</span>
-											Brand Identity Design
+											Leadership & mentoring
 										</Link>
 									</h3>
 									<Link href="/#" className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100">
 										<p className="service-card-text my-3">
-											Developing cohesive visual branding that resonates with your <br />
-											target audience.
+											Great things happen when creative people work together, <br />
+											helping to build strong teams that embrace challenges and inspire each other.
 										</p>
 										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
 											<i className="ri-arrow-right-up-line" />
@@ -97,8 +97,8 @@ export default function Service1() {
 									</h3>
 									<Link href="/#" className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100">
 										<p className="service-card-text my-3">
-											Crafting responsive and engaging websites that align with your <br />
-											brand and business goals.
+											Constantly pushing myself to create value and make a meaningful difference, <br />
+											solely driven with my own creativity and innovation
 										</p>
 										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
 											<i className="ri-arrow-right-up-line" />

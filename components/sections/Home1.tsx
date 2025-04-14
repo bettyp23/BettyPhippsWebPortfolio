@@ -50,8 +50,8 @@ export default function Home1() {
 						src="/assets/imgs/hero/hero-1/man.png"
 						alt="man"
 						style={{
-							width: '500px', // Increased the width
-							height: 'auto', // Keep the aspect ratio intact
+							width: '500px', 
+							height: 'auto',
 						}}
 					/>
 					    <div className="position-absolute top-50 start-0 translate-middle z-0 mt-8 ms-10 ps-8">
