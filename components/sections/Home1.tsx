@@ -50,7 +50,7 @@ export default function Home1() {
 						src="/assets/imgs/hero/hero-1/man.png"
 						alt="man"
 						style={{
-							width: '300px', // Increased the width
+							width: '500px', // Increased the width
 							height: 'auto', // Keep the aspect ratio intact
 						}}
 					/>
