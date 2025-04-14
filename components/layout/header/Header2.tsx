@@ -28,32 +28,32 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 												<Link className="nav-link" href="#resume">Resume</Link>
 											</li>
 											<li className="nav-item">
-												<Link className="nav-link" href="#services">Services</Link>
+												<Link className="nav-link" href="#services">Projects</Link>
 											</li>
 											<li className="nav-item">
-												<Link className="nav-link" href="#portfolio">Portfolio</Link>
+												<Link className="nav-link" href="#portfolio">Involvement & Leadership</Link>
 											</li>
 											<li className="nav-item">
 												<Link className="nav-link" href="#blog">Blog</Link>
 											</li>
 											<li className="nav-item">
-												<Link className="nav-link" href="#contact">Contact</Link>
+												<Link className="nav-link" href="#contact">Contact Me</Link>
 											</li>
 										</ul>
 									</div>
 								</div>
 								<div className="navbar-social d-flex align-items-center pe-5 pe-lg-0 me-5 me-lg-0">
 									<div className="d-md-flex d-none gap-3">
-										<Link href="/http://facebook.com">
+										<Link href="https://www.facebook.com/share/1AQUEPL44w/?mibextid=wwXIfr">
 											<i className="ri-facebook-circle-fill fs-18" />
 										</Link>
-										<Link href="/http://twitter.com">
+										{/* <Link href="/http://twitter.com">
 											<i className="ri-twitter-x-fill fs-18" />
-										</Link>
-										<Link href="/http://linkedin.com">
+										</Link> */}
+										<Link href="https://www.linkedin.com/in/bettyphipps/">
 											<i className="ri-linkedin-fill fs-18" />
 										</Link>
-										<Link href="/http://github.com">
+										<Link href="https://github.com/bettyp23">
 											<i className="ri-github-fill fs-18" />
 										</Link>
 									</div>
