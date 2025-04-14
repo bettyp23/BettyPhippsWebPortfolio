@@ -434,7 +434,7 @@ export default function Home3() {
 										<div className="swiper-pagination" />
 									</div>
 								</div>
-								<div id="portfolio" className="testimonials pt-60 border-bottom pb-80">
+								{/* <div id="portfolio" className="testimonials pt-60 border-bottom pb-80">
 									<h3>Testimonials</h3>
 									<div className="position-relative pt-4">
 										<Swiper {...swiperOptions} className="swiper slider-one pb-3 position-relative">
@@ -478,7 +478,7 @@ export default function Home3() {
 											</div>
 										</Swiper>
 									</div>
-								</div>
+								</div> */}
 								<div id="contact" className="contact pt-70">
 									<h3>Contact me</h3>
 									<div className="d-flex align-items-center gap-5 mt-4">
