@@ -47,10 +47,10 @@ export default function Contact2() {
 										<i className="ri-phone-fill text-primary-2 fs-26" />
 									</div>
 								</div>
-								<div className="ps-3 h-100">
+								{/* <div className="ps-3 h-100">
 									<span className="text-400 fs-6">Phone Number</span>
 									<h6 className="mb-0">+1-234-567-8901</h6>
-								</div>
+								</div> */}
 								<a href="tel:+1-234-567-8901" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
 							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
@@ -61,7 +61,7 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">Email</span>
-									<h6 className="mb-0">contact@william.design</h6>
+									<h6 className="mb-0">Bp23e@fsu.edu</h6>
 								</div>
 								<a href="mailto:someone@example.com" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
@@ -71,13 +71,13 @@ export default function Contact2() {
 										<i className="ri-skype-fill text-primary-2 fs-26" />
 									</div>
 								</div>
-								<div className="ps-3 h-100">
+								{/* <div className="ps-3 h-100">
 									<span className="text-400 fs-6">Skype</span>
 									<h6 className="mb-0">WilliamDesignUX</h6>
-								</div>
+								</div> */}
 								<a href="skype:SKYPENAME?add" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
-							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
+							{/* <div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">
 									<div className="icon-flip flex-nowrap icon-shape icon-xxl border border-1 rounded-3 bg-3">
 										<i className="ri-map-2-fill text-primary-2 fs-26" />
@@ -88,7 +88,7 @@ export default function Contact2() {
 									<h6 className="mb-0">0811 Erdman Prairie, Joaville CA</h6>
 								</div>
 								<a href="https://maps.google.com/maps?q=1st+avenue,New+York" className="position-absolute top-0 start-0 w-100 h-100" />
-							</div>
+							</div> */}
 						</div>
 					</div>
 				</div>

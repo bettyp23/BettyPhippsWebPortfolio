@@ -15,7 +15,7 @@ export default function Contact1() {
 					</span>
 					<div className="row mt-8">
 						<div className="col-lg-4 d-flex flex-column">
-							<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
+							{/* <div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
 								<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
 									<i className="ri-phone-fill text-primary-1 fs-26" />
 								</div>
@@ -24,8 +24,8 @@ export default function Contact1() {
 									<h6 className="mb-0">+1-234-567-8901</h6>
 								</div>
 								<Link href="/tel:+1-234-567-8901" className="position-absolute top-0 start-0 w-100 h-100" />
-							</div>
-							<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
+							</div> */}
+							{/* <div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
 								<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
 									<i className="ri-mail-fill text-primary-1 fs-26" />
 								</div>
@@ -34,8 +34,8 @@ export default function Contact1() {
 									<h6 className="mb-0">contact@william.design</h6>
 								</div>
 								<Link href="/mailto:someone@example.com" className="position-absolute top-0 start-0 w-100 h-100" />
-							</div>
-							<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
+							</div> */}
+							{/* <div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
 								<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
 									<i className="ri-skype-fill text-primary-1 fs-26" />
 								</div>
@@ -44,8 +44,8 @@ export default function Contact1() {
 									<h6 className="mb-0">WilliamDesignUX</h6>
 								</div>
 								<Link href="/skype:SKYPENAME?add" className="position-absolute top-0 start-0 w-100 h-100" />
-							</div>
-							<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
+							</div> */}
+							{/* <div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
 								<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
 									<i className="ri-map-2-fill text-primary-1 fs-26" />
 								</div>
@@ -54,7 +54,7 @@ export default function Contact1() {
 									<h6 className="mb-0">0811 Erdman Prairie, Joaville CA</h6>
 								</div>
 								<Link href="/https://maps.google.com/maps?q=1st+avenue,New+York" className="position-absolute top-0 start-0 w-100 h-100" />
-							</div>
+							</div> */}
 						</div>
 						<div className="col-lg-7 offset-lg-1 ps-lg-0 pt-5 pt-lg-0">
 							<div className="position-relative">
@@ -98,7 +98,7 @@ export default function Contact1() {
 				</div>
 				<div className="scroll-move-right position-absolute bottom-0 start-50 translate-middle-x bg-900 overflow-hidden">
 					<div className="wow img-custom-anim-top">
-						<h3 className="stroke fs-280 text-lowercase text-900 mb-0 lh-1">william.design</h3>
+						<h3 className="stroke fs-280 text-lowercase text-900 mb-0 lh-1">Betty Phipps</h3>
 					</div>
 				</div>
 			</section>
