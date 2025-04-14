@@ -1,8 +1,8 @@
-import Link from 'next/link'
-import Marquee from 'react-fast-marquee'
+// import Link from 'next/link'
+// import Marquee from 'react-fast-marquee'
 
 
-export default function Skills2() {}
+// export default function Skills2() {}
 // 	return (
 // 		<>
 

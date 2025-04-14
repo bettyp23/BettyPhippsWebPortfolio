@@ -1,7 +1,7 @@
-'use client'
-import Link from "next/link"
-import CountUp from 'react-countup'
-export default function Skills1() {}
+// 'use client'
+// import Link from "next/link"
+// import CountUp from 'react-countup'
+//export default function Skills1() {}
 // 	return (
 // 		<>
 
