@@ -28,7 +28,7 @@ export default function Service1() {
 								<div className="service-card-details d-lg-flex align-items-center">
 									<h3 className="service-card-title w-lg-50 w-100 mb-0">
 										<Link href="/work-single">
-											<span className="service-number">01.</span>
+											<span className="service-number">01. </span>
 											Technology / Software Solutions
 										</Link>
 									</h3>
@@ -49,7 +49,7 @@ export default function Service1() {
 								<div className="service-card-details d-lg-flex align-items-center">
 									<h3 className="service-card-title w-lg-50 w-100 mb-0">
 										<Link href="/work-single">
-											<span className="service-number">02.</span>
+											<span className="service-number">02. </span>
 											Data Science & AI
 										</Link>
 									</h3>
@@ -70,7 +70,7 @@ export default function Service1() {
 								<div className="service-card-details d-lg-flex align-items-center">
 									<h3 className="service-card-title w-lg-50 w-100 mb-0">
 										<Link href="/work-single">
-											<span className="service-number">03.</span>
+											<span className="service-number">03. </span>
 											Leadership & mentoring
 										</Link>
 									</h3>
@@ -87,11 +87,12 @@ export default function Service1() {
 							</div>
 						</div>
 						<div className="col-12">
-							<div className="single-service-card-1 tg-img-reveal-item w-100 border-top border-900 p-3 border-bottom" data-fx={1} data-img="assets/imgs/services/services-1/img-4.png">
+							<div className="single-service-card-1 tg-img-reveal-item w-100 border-top border-900 p-3 border-bottom" data-fx={1} >
+							{/* ^^ data-img="assets/imgs/services/services-1/img-4.png"> */}
 								<div className="service-card-details d-lg-flex align-items-center">
 									<h3 className="service-card-title w-lg-50 w-100 mb-0">
 										<Link href="/work-single">
-											<span className="service-number">04.</span>
+											<span className="service-number">04. </span>
 											Web Development
 										</Link>
 									</h3>

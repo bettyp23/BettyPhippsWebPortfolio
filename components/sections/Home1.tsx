@@ -17,7 +17,7 @@ export default function Home1() {
 								<i className="ri-download-line ms-2" />
 							</Link>
 							<Link href="/#contact" className="btn btn-outline-secondary d-inline-flex align-items-center">
-								<span>Hire me</span>
+								<span>Connect with me!</span>
 								<i className="ri-arrow-right-line ms-2" />
 							</Link>
 							<p className="text-400 mt-6 mb-3">3rd year Computer Science Student at Florida State University</p>
