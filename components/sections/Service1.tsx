@@ -16,10 +16,10 @@ export default function Service1() {
 							</span>
 						</div>
 						<div className="col-lg-auto">
-							<Link href="/#contact" className="btn btn-gradient mt-lg-0 mt-5 ms-lg-auto">
+							<div className="btn btn-gradient mt-lg-0 mt-5 ms-lg-auto">
 								Learn more
 								<i className="ri-arrow-right-up-line" />
-							</Link>
+							</div>
 						</div>
 					</div>
 					<div className="row mt-6 justify-content-between">
@@ -27,12 +27,12 @@ export default function Service1() {
 							<div className="single-service-card-1 tg-img-reveal-item w-100 border-top border-900 p-3" data-fx={1} >
 								<div className="service-card-details d-lg-flex align-items-center">
 									<h3 className="service-card-title w-lg-50 w-100 mb-0">
-										<Link href="/work-single">
+										<div>
 											<span className="service-number">01. </span>
 											Technology / Software Solutions
-										</Link>
+										</div>
 									</h3>
-									<Link href="" className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100">
+									<div className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100">
 										<p className="service-card-text my-3">
 										I’m passionate about solving complex challenges with simple, efficient solutions that meet technical needs while pushing<br />
 										creative boundaries.
@@ -40,7 +40,7 @@ export default function Service1() {
 										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
 											<i className="ri-arrow-right-up-line" />
 										</div>
-									</Link>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -48,12 +48,12 @@ export default function Service1() {
 							<div className="single-service-card-1 tg-img-reveal-item w-100 border-top border-900 p-3" data-fx={1}>
 								<div className="service-card-details d-lg-flex align-items-center">
 									<h3 className="service-card-title w-lg-50 w-100 mb-0">
-										<Link href="/work-single">
+										<div>
 											<span className="service-number">02. </span>
 											Data Science & AI
-										</Link>
+										</div>
 									</h3>
-									<Link href="" className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100">
+									<div className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100">
 										<p className="service-card-text my-3">
 											turning data into insights that help solve problems <br />
 											and drive smarter decisions for people and businesses.
@@ -61,7 +61,7 @@ export default function Service1() {
 										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
 											<i className="ri-arrow-right-up-line" />
 										</div>
-									</Link>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -69,12 +69,12 @@ export default function Service1() {
 							<div className="single-service-card-1 tg-img-reveal-item w-100 border-top border-900 p-3" data-fx={1}>
 								<div className="service-card-details d-lg-flex align-items-center">
 									<h3 className="service-card-title w-lg-50 w-100 mb-0">
-										<Link href="/work-single">
+										<div>
 											<span className="service-number">03. </span>
 											Leadership & mentoring
-										</Link>
+										</div>
 									</h3>
-									<Link href="" className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100">
+									<div className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100">
 										<p className="service-card-text my-3">
 											Great things happen when creative people work together, <br />
 											helping to build strong teams that embrace challenges and inspire each other.
@@ -82,7 +82,7 @@ export default function Service1() {
 										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
 											<i className="ri-arrow-right-up-line" />
 										</div>
-									</Link>
+									</div>
 								</div>
 							</div>
 						</div>
@@ -90,20 +90,19 @@ export default function Service1() {
 							<div className="single-service-card-1 tg-img-reveal-item w-100 border-top border-900 p-3 border-bottom" data-fx={1} >
 								<div className="service-card-details d-lg-flex align-items-center">
 									<h3 className="service-card-title w-lg-50 w-100 mb-0">
-										<Link href="/work-single">
+										<div>
 											<span className="service-number">04. </span>
-											Web Development
-										</Link>
+											Entrepreneurship
+										</div>
 									</h3>
-									<Link href="" className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100">
+									<div className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100">
 										<p className="service-card-text my-3">
-											Constantly pushing myself to create value and make a meaningful difference, solely driven with my own creativity<br />
-											and innovation
+											Constantly pushing myself to create value and make a meaningful difference, solely driven with my own creativity and innovation<br />
 										</p>
 										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
 											<i className="ri-arrow-right-up-line" />
 										</div>
-									</Link>
+									</div>
 								</div>
 							</div>
 						</div>
