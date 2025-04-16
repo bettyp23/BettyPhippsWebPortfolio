@@ -20,14 +20,14 @@ export default function BlogList() {
 											Explore the <span className="text-dark">a deep dive</span> into the innovations transforming our industry.
 										</h3>
 										<p className="text-300 fs-5 mb-0">
-											Discover key insights and emerging trends shaping the future of design: a detailed <br />
-											examination of how these innovations are reshaping our industry
+											Here, I dive into the latest AI news, trends, and innovations, <br />
+											while offering my own reflections on the ways we navigate our increasingly tech-driven world.
 										</p>
 									</div>
 								</div>
 							</div>
 							<div className="row mt-8">
-								{/* <div className="col-lg-4">
+								<div className="col-lg-4">
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
@@ -45,7 +45,7 @@ export default function BlogList() {
 											<Link href="/blog-details" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
 										</div>
 									</div>
-								</div> */}
+								</div>
 								{/* <div className="col-lg-4">
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
