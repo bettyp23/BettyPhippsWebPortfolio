@@ -266,7 +266,7 @@ export default function Services() {
 						<div className="container position-relative z-1">
 							<h3 className="ds-3 mt-3 mb-3 text-primary-1">Get in touch</h3>
 							<span className="fs-5 fw-medium text-200">
-							I'm always open to new projects and collaborate with innovative minds.
+							I'm always open to new projects and collaborate with innovative minds!
 							</span>
 							<a
 								href="mailto:bp23e@fsu.edu"
@@ -366,7 +366,7 @@ export default function Services() {
 						</div>
 						<div className="scroll-move-right position-absolute bottom-0 start-50 translate-middle-x bg-900 overflow-hidden">
 							<div className="wow img-custom-anim-top">
-								<h3 className="stroke fs-280 text-lowercase text-900 mb-0 lh-1">william.design</h3>
+								<h3 className="stroke fs-280 text-lowercase text-900 mb-0 lh-1">Betty Phipps</h3>
 							</div>
 						</div>
 					</section>

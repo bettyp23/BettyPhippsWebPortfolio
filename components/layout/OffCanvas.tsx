@@ -13,7 +13,7 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 					</div>
 					<div className="offCanvas__side-info mb-30">
 						<div className="contact-list mb-30">
-							<p className="fs-6 fw-medium text-200 mb-5">I'm always open to new projects and collaborate with innovative minds.</p>
+							<p className="fs-6 fw-medium text-200 mb-5">I'm always open to new projects and collaborate with innovative minds!</p>
 
 							<div className="mb-3">
 								<span className="text-400 fs-5">Email</span>
