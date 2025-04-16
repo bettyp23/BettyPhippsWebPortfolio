@@ -21,7 +21,7 @@ export default function Contact1() {
 								  color: 'white',
 								  padding: '10px 20px',
 								  borderRadius: '5px',
-								  marginTop: '70px', // Adjust this value to move the button down
+								  marginTop: '100px', // Adjust this value to move the button down
 								}}
 							  >
 								Contact Me
