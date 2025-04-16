@@ -40,13 +40,13 @@ export default function PortfolioFilter() {
 
 			<div className="container">
 				<div className="text-start">
-					<div className="button-group filter-button-group filter-menu-active">
+					{/* <div className="button-group filter-button-group filter-menu-active">
 						<button className={activeBtn("*")} onClick={handleFilterKeyChange("*")}>All Projects</button>
 						<button className={activeBtn("brand")} onClick={handleFilterKeyChange("brand")}>Branding</button>
 						<button className={activeBtn("webdesign")} onClick={handleFilterKeyChange("webdesign")}>Web Design</button>
 						<button className={activeBtn("ui")} onClick={handleFilterKeyChange("ui")}>UI/UX</button>
 						<button className={activeBtn("app")} onClick={handleFilterKeyChange("app")}>App Dev</button>
-					</div>
+					</div> */}
 				</div>
 				<div className="row masonry-active justify-content-between mt-6">
 					<div className="grid-sizer" />
