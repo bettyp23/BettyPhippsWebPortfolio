@@ -13,18 +13,8 @@ export default function Contact1() {
 						<br />
 						have a project in mind or just want to chat about design, feel free to reach out!
 					</span>
-					<div className="row mt-8">
+					{/* <div className="row mt-8">
 						<div className="col-lg-4 d-flex flex-column">
-							{/* <div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
-								<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
-									<i className="ri-phone-fill text-primary-1 fs-26" />
-								</div>
-								<div className="ps-3">
-									<span className="text-400 fs-5">Phone Number</span>
-									<h6 className="mb-0">+1-234-567-8901</h6>
-								</div>
-								<Link href="/tel:+1-234-567-8901" className="position-absolute top-0 start-0 w-100 h-100" />
-							</div> */}
 							<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
 								<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
 									<i className="ri-mail-fill text-primary-1 fs-26" />
@@ -74,7 +64,7 @@ export default function Contact1() {
 								<div className="z-0 bg-primary-dark rectangle-bg z-1 rounded-3" />
 							</div>
 						</div>
-					</div>
+					</div> */}
 				</div>
 				<div className="scroll-move-right position-absolute bottom-0 start-50 translate-middle-x bg-900 overflow-hidden">
 					<div className="wow img-custom-anim-top">

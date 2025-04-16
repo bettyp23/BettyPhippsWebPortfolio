@@ -230,9 +230,9 @@ export default function BlogDetails() {
 							<span className="fs-5 fw-medium text-200">
 								I'm always excited to take on new projects and collaborate with innovative minds. If you
 								<br />
-								have a project in mind or just want to chat about design, feel free to reach out!
+								have a project in mind or just want to chat, feel free to reach out!
 							</span>
-							<div className="row mt-8">
+							{/* <div className="row mt-8">
 								<div className="col-lg-7 offset-lg-1 ps-lg-0 pt-5 pt-lg-0">
 									<div className="position-relative">
 										<div className="position-relative z-2">
@@ -271,7 +271,7 @@ export default function BlogDetails() {
 										<div className="z-0 bg-primary-dark rectangle-bg z-1 rounded-3" />
 									</div>
 								</div>
-							</div>
+							</div> */}
 						</div>
 						<div className="scroll-move-right position-absolute bottom-0 start-50 translate-middle-x bg-900 overflow-hidden">
 							<div className="wow img-custom-anim-top">

@@ -290,9 +290,9 @@ export default function BlogList() {
 							<span className="fs-5 fw-medium text-200">
 								I'm always excited to take on new projects and collaborate with innovative minds. If you
 								<br />
-								have a project in mind or just want to chat about design, feel free to reach out!
+								have a project in mind or just want to chat, feel free to reach out!
 							</span>
-							<div className="row mt-8">
+							{/* <div className="row mt-8">
 								<div className="col-lg-4 d-flex flex-column">
 									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
 										<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
@@ -373,7 +373,7 @@ export default function BlogList() {
 										<div className="z-0 bg-primary-dark rectangle-bg z-1 rounded-3" />
 									</div>
 								</div>
-							</div>
+							</div> */}
 						</div>
 						<div className="scroll-move-right position-absolute bottom-0 start-50 translate-middle-x bg-900 overflow-hidden">
 							<div className="wow img-custom-anim-top">

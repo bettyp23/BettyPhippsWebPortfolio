@@ -48,26 +48,6 @@ export default function Resume1() {
 											<h3 className="text-linear-1 ms-auto fw-semibold"><span className="fs-4 fw-bold"></span></h3>
 										</div>
 									</div>
-									{/* <div className="resume-card-item px-4 py-3 mt-5">
-										{/* <div className="d-flex align-items-end">
-											<div>
-												<p className="fw-extra-bold text-linear-1 mb-2">2023 - Present</p>
-												<h5>Full-Stack Developer (Freelance + Projects)</h5>
-												<p className="text-300 mb-0">Personal & Academic Projects</p>
-											</div>
-											<h3 className="text-linear-1 ms-auto fw-semibold">4.9<span className="fs-4 fw-bold">/5</span></h3>
-										</div> }
-									</div> */}
-									{/* <div className="resume-card-item px-4 py-3 mt-5">
-										{/* <div className="d-flex align-items-end">
-											<div>
-												<p className="fw-extra-bold text-linear-1 mb-2">2022</p>
-												<h5>Certificate in Digital Design</h5>
-												<p className="text-300 mb-0">Coursera</p>
-											</div>
-											<h3 className="text-linear-1 ms-auto fw-semibold">4.8<span className="fs-4 fw-bold">/5</span></h3>
-										</div> }
-									</div> */}
 								</div>
 							</div>
 						</div>
@@ -93,11 +73,6 @@ export default function Resume1() {
 										<h5>Help Desk Technician</h5>
 										<p className="text-300 mb-0">FSU College of Communication & Information</p>
 									</div>
-									{/* <div className="resume-card-item px-4 py-3 mt-4">
-										<p className="fw-extra-bold text-linear-1 mb-2">2024</p>
-										<h5>Hackathon Winner – Grid Optimization</h5>
-										<p className="text-300 mb-0">NextEra Energy Hackathon</p>
-									</div> */}
 								</div>
 							</div>
 						</div>
