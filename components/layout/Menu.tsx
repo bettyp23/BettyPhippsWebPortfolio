@@ -13,11 +13,11 @@ export default function Menu() {
 					</Link>
 				</li>
 				<li className="nav-item">
-					<Link href="/services" className={pathname === "/services" ? "nav-link active" : "nav-link"}>
-						Services
+					<Link href="https://www.linkedin.com/in/bettyphipps/" className={pathname === "linkedin" ? "nav-link active" : "nav-link"}>
+						Linkedin
 					</Link>
 				</li>
-				<li className="nav-item">
+				{/* <li className="nav-item">
 					<Link href="/work" className={pathname === "/work" ? "nav-link active" : "nav-link"}>
 						Portfolio
 					</Link>
@@ -26,7 +26,7 @@ export default function Menu() {
 					<Link href="/pricing" className={pathname === "/pricing" ? "nav-link active" : "nav-link"}>
 						Pricing
 					</Link>
-				</li>
+				</li> */}
 				<li className="nav-item">
 					<Link href="/blog-list" className={pathname === "/blog-list" ? "nav-link active" : "nav-link"}>
 						Blog
