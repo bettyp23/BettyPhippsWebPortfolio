@@ -38,7 +38,7 @@ export default function Service1() {
 										creative boundaries.
 										</p>
 										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
-											<i className="ri-arrow-right-up-line" />
+											{/* <i className="ri-arrow-right-up-line" /> */}
 										</div>
 									</div>
 								</div>
@@ -59,7 +59,7 @@ export default function Service1() {
 											and drive smarter decisions for people and businesses.
 										</p>
 										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
-											<i className="ri-arrow-right-up-line" />
+											{/* <i className="ri-arrow-right-up-line" /> */}
 										</div>
 									</div>
 								</div>
@@ -80,7 +80,7 @@ export default function Service1() {
 											helping to build strong teams that embrace challenges and inspire each other.
 										</p>
 										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
-											<i className="ri-arrow-right-up-line" />
+											{/* <i className="ri-arrow-right-up-line" /> */}
 										</div>
 									</div>
 								</div>
@@ -100,7 +100,7 @@ export default function Service1() {
 											Constantly pushing myself to create value and make a meaningful difference, solely driven with my own creativity and innovation<br />
 										</p>
 										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
-											<i className="ri-arrow-right-up-line" />
+											{/* <i className="ri-arrow-right-up-line" /> */}
 										</div>
 									</div>
 								</div>
