@@ -267,9 +267,9 @@ export default function Work() {
 						<div className="container position-relative z-1">
 							<h3 className="ds-3 mt-3 mb-3 text-primary-1">Get in touch</h3>
 							<span className="fs-5 fw-medium text-200">
-								I'm always excited to take on new projects and collaborate with innovative minds. If you
+								I'm always excited to take on new projects and collaborate with innovative minds. 
 								<br />
-								have a project in mind or just want to chat, feel free to reach out!
+								Contact me or connect with me on LinkedIn!
 							</span>
 							<a
 								href="mailto:bp23e@fsu.edu"
