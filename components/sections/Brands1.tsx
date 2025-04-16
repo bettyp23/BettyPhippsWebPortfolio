@@ -8,11 +8,13 @@ export default function Brands1() {
 			<section className="section-brands-1 section-padding">
 				<div className="container">
 					<div className="text-center">
-						<h2>Trusted by industry leaders</h2>
+						<h2>Learning by building—real projects with real impact</h2>
 						<p className="text-300">
-							I have collaborated with many large corporations, companies, and agencies around
+							I’ve collaborated with organizations on impactful technology solutions—
 							<br />
-							the world in many fields of design and consulting
+							from building internal tools with frameworks like NestJS and Angular, to supporting
+							<br />
+							enterprise systems through software development, data modeling, and business analysis.
 						</p>
 					</div>
 				</div>
