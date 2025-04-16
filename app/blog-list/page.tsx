@@ -295,8 +295,14 @@ export default function BlogList() {
 							<a
 								href="mailto:bp23e@fsu.edu"
 								className="btn"
-								style={{ backgroundColor: '#6f42c1', color: 'white', padding: '10px 20px', borderRadius: '5px' }}
-								>
+								style={{
+								  backgroundColor: '#6f42c1',
+								  color: 'white',
+								  padding: '10px 20px',
+								  borderRadius: '5px',
+								  marginTop: '20px', // Adjust this value to move the button down
+								}}
+							  >
 								Contact Me
 								</a>
 							{/* <div className="row mt-8">
