@@ -154,7 +154,7 @@ export default function Resume1() {
 												<h5>B.S. in Computer Science, Minor in Entrepreneurship</h5>
 												<p className="text-300 mb-0">Florida State University</p>
 											</div>
-											<h3 className="text-linear-1 ms-auto fw-semibold">4.9<span className="fs-4 fw-bold">/5</span></h3>
+											<h3 className="text-linear-1 ms-auto fw-semibold"><span className="fs-4 fw-bold">/5</span></h3>
 										</div>
 									</div>
 									<div className="resume-card-item px-4 py-3 mt-5">
@@ -164,10 +164,10 @@ export default function Resume1() {
 												<h5>Dual Enrollment Coursework</h5>
 												<p className="text-300 mb-0">Broward College</p>
 											</div>
-											<h3 className="text-linear-1 ms-auto fw-semibold">4.8<span className="fs-4 fw-bold">/5</span></h3>
+											<h3 className="text-linear-1 ms-auto fw-semibold"><span className="fs-4 fw-bold">/5</span></h3>
 										</div>
 									</div>
-									<div className="resume-card-item px-4 py-3 mt-5">
+									{/* <div className="resume-card-item px-4 py-3 mt-5">
 										{/* <div className="d-flex align-items-end">
 											<div>
 												<p className="fw-extra-bold text-linear-1 mb-2">2023 - Present</p>
@@ -175,9 +175,9 @@ export default function Resume1() {
 												<p className="text-300 mb-0">Personal & Academic Projects</p>
 											</div>
 											<h3 className="text-linear-1 ms-auto fw-semibold">4.9<span className="fs-4 fw-bold">/5</span></h3>
-										</div> */}
-									</div>
-									<div className="resume-card-item px-4 py-3 mt-5">
+										</div> }
+									</div> */}
+									{/* <div className="resume-card-item px-4 py-3 mt-5">
 										{/* <div className="d-flex align-items-end">
 											<div>
 												<p className="fw-extra-bold text-linear-1 mb-2">2022</p>
@@ -185,8 +185,8 @@ export default function Resume1() {
 												<p className="text-300 mb-0">Coursera</p>
 											</div>
 											<h3 className="text-linear-1 ms-auto fw-semibold">4.8<span className="fs-4 fw-bold">/5</span></h3>
-										</div> */}
-									</div>
+										</div> }
+									</div> */}
 								</div>
 							</div>
 						</div>
