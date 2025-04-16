@@ -20,15 +20,6 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 										<Link className="nav-link active" href="#about">About me</Link>
 									</li>
 									<li className="nav-item">
-										<Link className="nav-link" href="#resume">Resume</Link>
-									</li>
-									<li className="nav-item">
-										<Link className="nav-link" href="#projects">Projects</Link>
-									</li>
-									<li className="nav-item">
-										<Link className="nav-link" href="#portfolio">Involvement & Leadership</Link>
-									</li>
-									<li className="nav-item">
 										<Link className="nav-link" href="#blog">Blog</Link>
 									</li>
 									<li className="nav-item">
@@ -42,9 +33,6 @@ export default function Header3({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 								<Link href="https://www.facebook.com/share/1AQUEPL44w/?mibextid=wwXIfr">
 									<i className="ri-facebook-circle-fill fs-18" />
 								</Link>
-								{/* <Link href="http://twitter.com">
-									<i className="ri-twitter-x-fill fs-18" />
-								</Link> */}
 								<Link href="https://www.linkedin.com/in/bettyphipps/">
 									<i className="ri-linkedin-fill fs-18" />
 								</Link>

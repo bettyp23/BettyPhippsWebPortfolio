@@ -35,26 +35,6 @@ export default function Contact1() {
 								</div>
 								<Link href="/mailto:someone@example.com" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
-							{/* <div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
-								<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
-									<i className="ri-skype-fill text-primary-1 fs-26" />
-								</div>
-								<div className="ps-3">
-									<span className="text-400 fs-5">Skype</span>
-									<h6 className="mb-0">WilliamDesignUX</h6>
-								</div>
-								<Link href="/skype:SKYPENAME?add" className="position-absolute top-0 start-0 w-100 h-100" />
-							</div> */}
-							{/* <div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
-								<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
-									<i className="ri-map-2-fill text-primary-1 fs-26" />
-								</div>
-								<div className="ps-3">
-									<span className="text-400 fs-5">Address</span>
-									<h6 className="mb-0">0811 Erdman Prairie, Joaville CA</h6>
-								</div>
-								<Link href="/https://maps.google.com/maps?q=1st+avenue,New+York" className="position-absolute top-0 start-0 w-100 h-100" />
-							</div> */}
 						</div>
 						<div className="col-lg-7 offset-lg-1 ps-lg-0 pt-5 pt-lg-0">
 							<div className="position-relative">
