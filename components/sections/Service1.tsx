@@ -15,12 +15,12 @@ export default function Service1() {
 								all while working towards making a meaningful impact.
 							</span>
 						</div>
-						<div className="col-lg-auto">
+						{/* <div className="col-lg-auto">
 							<div className="btn btn-gradient mt-lg-0 mt-5 ms-lg-auto">
 								Learn more
 								<i className="ri-arrow-right-up-line" />
 							</div>
-						</div>
+						</div> */}
 					</div>
 					<div className="row mt-6 justify-content-between">
 						<div className="col-12">
@@ -37,9 +37,6 @@ export default function Service1() {
 										I’m passionate about solving complex challenges with simple, efficient solutions that meet technical needs while pushing<br />
 										creative boundaries.
 										</p>
-										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
-											{/* <i className="ri-arrow-right-up-line" /> */}
-										</div>
 									</div>
 								</div>
 							</div>
@@ -58,9 +55,6 @@ export default function Service1() {
 											turning data into insights that help solve problems <br />
 											and drive smarter decisions for people and businesses.
 										</p>
-										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
-											{/* <i className="ri-arrow-right-up-line" /> */}
-										</div>
 									</div>
 								</div>
 							</div>
@@ -79,9 +73,6 @@ export default function Service1() {
 											Great things happen when creative people work together, <br />
 											helping to build strong teams that embrace challenges and inspire each other.
 										</p>
-										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
-											{/* <i className="ri-arrow-right-up-line" /> */}
-										</div>
 									</div>
 								</div>
 							</div>
@@ -99,9 +90,6 @@ export default function Service1() {
 										<p className="service-card-text my-3">
 											Constantly pushing myself to create value and make a meaningful difference, solely driven with my own creativity and innovation<br />
 										</p>
-										<div className="service-card-icon icon-shape ms-auto icon-md rounded-circle border">
-											{/* <i className="ri-arrow-right-up-line" /> */}
-										</div>
 									</div>
 								</div>
 							</div>
