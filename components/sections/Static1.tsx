@@ -37,7 +37,7 @@ export default function Static1() {
 									<div className="content text-center mx-auto d-flex align-items-center">
 										<span className="ds-3 count text-primary-1 fw-medium my-0">+<CountUp enableScrollSpy={true} end={5} className="odometer ds-1 text-dark fw-semibold" /></span>
 										<div className="text-start ms-2">
-											<p className="fs-5 mb-0 text-300">Tech experience</p>
+											<p className="fs-5 mb-0 text-300">Tech experience &</p>
 											<p className="fs-5 mb-0 fw-bold">Internship and part-times</p>
 										</div>
 									</div>
@@ -48,7 +48,7 @@ export default function Static1() {
 									<div className="content text-center mx-auto d-flex align-items-center">
 										<span className="ds-3 count text-primary-1 fw-medium my-0">+<CountUp enableScrollSpy={true} end={263} className="odometer ds-1 text-dark fw-semibold" /></span>
 										<div className="text-start ms-2">
-											<p className="fs-5 mb-0 text-300">Volunteering</p>
+											<p className="fs-5 mb-0 text-300">Hours Volunteering</p>
 											<p className="fs-5 mb-0 fw-bold">& Mentoring</p>
 										</div>
 									</div>

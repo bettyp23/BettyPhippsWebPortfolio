@@ -13,11 +13,11 @@ export default function BlogList() {
 							<div className="row">
 								<div className="col-lg-8 mx-lg-auto mb-lg-0">
 									<div className="text-center">
-										<Link href="/#" className="btn btn-gradient d-inline-block text-uppercase">
+										<div className="btn btn-gradient d-inline-block text-uppercase">
 											Recent blog
-										</Link>
+										</div>
 										<h3 className="ds-3 mt-3 mb-4 text-300">
-											Explore the <span className="text-dark">insights and trends shaping</span> our industry
+											Explore the <span className="text-dark">a deep dive</span> into the innovations transforming our industry.
 										</h3>
 										<p className="text-300 fs-5 mb-0">
 											Discover key insights and emerging trends shaping the future of design: a detailed <br />
@@ -27,7 +27,7 @@ export default function BlogList() {
 								</div>
 							</div>
 							<div className="row mt-8">
-								<div className="col-lg-4">
+								{/* <div className="col-lg-4">
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
@@ -45,8 +45,8 @@ export default function BlogList() {
 											<Link href="/blog-details" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
 										</div>
 									</div>
-								</div>
-								<div className="col-lg-4">
+								</div> */}
+								{/* <div className="col-lg-4">
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
@@ -64,8 +64,8 @@ export default function BlogList() {
 											<Link href="/blog-details" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
 										</div>
 									</div>
-								</div>
-								<div className="col-lg-4">
+								</div> */}
+								{/* <div className="col-lg-4">
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
@@ -121,8 +121,8 @@ export default function BlogList() {
 											<Link href="/blog-details" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
 										</div>
 									</div>
-								</div>
-								<div className="col-lg-4">
+								</div> */}
+								{/* <div className="col-lg-4">
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
@@ -159,8 +159,8 @@ export default function BlogList() {
 											<Link href="/blog-details" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
 										</div>
 									</div>
-								</div>
-								<div className="col-lg-4">
+								</div> */}
+								{/* <div className="col-lg-4">
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
@@ -197,7 +197,7 @@ export default function BlogList() {
 											<Link href="/blog-details" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
 										</div>
 									</div>
-								</div>
+								</div> */}
 							</div>
 						</div>
 					</section>
@@ -206,7 +206,7 @@ export default function BlogList() {
 							<div className="d-flex justify-content-center align-items-center">
 								<nav aria-label="Page navigation example">
 									<ul className="pagination gap-2">
-										<li className="page-item">
+										{/* <li className="page-item">
 											<Link className="icon-xl fs-5 page-link pagination_item border-0 rounded-circle icon-shape fw-bold bg-600" href="/#" aria-label="Previous">
 												<i className="ri-arrow-left-line" />
 											</Link>
@@ -224,7 +224,7 @@ export default function BlogList() {
 											<Link className="icon-xl fs-5 page-link pagination_item border-0 rounded-circle icon-shape fw-bold bg-600" href="/#" aria-label="Next">
 												<i className="ri-arrow-right-line" />
 											</Link>
-										</li>
+										</li> */}
 									</ul>
 								</nav>
 							</div>

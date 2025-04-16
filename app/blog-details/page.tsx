@@ -129,7 +129,7 @@ export default function BlogDetails() {
 										</div>
 									</div>
 								</div>
-								<div className="col-lg-4">
+								{/* <div className="col-lg-4">
 									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
@@ -166,7 +166,7 @@ export default function BlogDetails() {
 											<Link href="/blog-details" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
 										</div>
 									</div>
-								</div>
+								</div> */}
 							</div>
 						</div>
 					</section>
