@@ -288,9 +288,7 @@ export default function BlogList() {
 						<div className="container position-relative z-1">
 							<h3 className="ds-3 mt-3 mb-3 text-primary-1">Get in touch</h3>
 							<span className="fs-5 fw-medium text-200">
-								I'm always excited to take on new projects and collaborate with innovative minds.
-								<br />
-								Contact me or connect with me on LinkedIn! — I’m always open to new opportunities.
+								I'm always open to new projects and collaborate with innovative minds.
 							</span>
 							<a
 								href="mailto:bp23e@fsu.edu"
