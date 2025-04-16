@@ -39,15 +39,15 @@ export default function PortfolioFilter() {
 		<>
 
 			<div className="container">
-				<div className="text-start">
+				{/* <div className="text-start">
 					{/* <div className="button-group filter-button-group filter-menu-active">
 						<button className={activeBtn("*")} onClick={handleFilterKeyChange("*")}>All Projects</button>
 						<button className={activeBtn("brand")} onClick={handleFilterKeyChange("brand")}>Branding</button>
 						<button className={activeBtn("webdesign")} onClick={handleFilterKeyChange("webdesign")}>Web Design</button>
 						<button className={activeBtn("ui")} onClick={handleFilterKeyChange("ui")}>UI/UX</button>
 						<button className={activeBtn("app")} onClick={handleFilterKeyChange("app")}>App Dev</button>
-					</div> */}
-				</div>
+					</div> }
+				</div> */}
 				<div className="row masonry-active justify-content-between mt-6">
 					<div className="grid-sizer" />
 					<div className="filter-item col-lg-6 col-12 brand ui app">
@@ -59,7 +59,7 @@ export default function PortfolioFilter() {
 								<Link href="https://github.com/bettyp23/AI-NLP-Analysis-and-Stock-Data-Script" className="project-card-content">
 									<h3 className="fw-semibold">NLP Stock Data</h3>
 									<p>Pre-trained sentiment analysis model from HuggingFace, based on 
-										transformer architectures (e.g., BERT, DistilBERT).</p>
+										       transformer architectures (e.g., BERT, DistilBERT).</p>
 								</Link>
 								<Link href="/work-single" className="project-card-icon icon-shape ms-auto icon-md rounded-circle">
 									<i className="ri-arrow-right-up-line" />
