@@ -69,9 +69,10 @@ export default function Service1() {
 											Leadership & mentoring
 										</div>
 									</h3>
-									<div className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100">
+									{/* <div className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100"> */}
+									<div className="ps-lg-10 w-lg-50 w-100">
 										<p className="service-card-text my-3">
-											Great things happen when creative people work together, <br />
+											I believe great things happen when creative people work together, <br />
 											helping to build strong teams that embrace challenges and inspire each other.
 										</p>
 									</div>
@@ -89,7 +90,7 @@ export default function Service1() {
 									</h3>
 									<div className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100">
 										<p className="service-card-text my-3">
-											Constantly pushing myself to create value and make a meaningful difference, solely driven with my own creativity and innovation<br />
+											Constantly pushing myself to create value and make a meaningful difference, solely driven with my own creativity and innovation.<br />
 										</p>
 									</div>
 								</div>
