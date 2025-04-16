@@ -290,7 +290,7 @@ export default function BlogList() {
 							<span className="fs-5 fw-medium text-200">
 								I'm always excited to take on new projects and collaborate with innovative minds.
 								<br />
-								Contact me or connect with me on LinkedIn!
+								Contact me or connect with me on LinkedIn! — I’m always open to new opportunities.
 							</span>
 							<a
 								href="mailto:bp23e@fsu.edu"
