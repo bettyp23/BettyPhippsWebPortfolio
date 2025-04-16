@@ -278,7 +278,7 @@ export default function Services() {
 								  color: 'white',
 								  padding: '10px 20px',
 								  borderRadius: '5px',
-								  marginTop: '20px', // Adjust this value to move the button down
+								  marginTop: '70px', // Adjust this value to move the button down
 								}}
 							  >
 								Contact Me
