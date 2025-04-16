@@ -232,6 +232,13 @@ export default function BlogDetails() {
 								<br />
 								have a project in mind or just want to chat, feel free to reach out!
 							</span>
+							<a
+								href="mailto:bp23e@fsu.edu"
+								className="btn"
+								style={{ backgroundColor: '#6f42c1', color: 'white', padding: '10px 20px', borderRadius: '5px' }}
+								>
+								Contact Me
+								</a>
 							{/* <div className="row mt-8">
 								<div className="col-lg-7 offset-lg-1 ps-lg-0 pt-5 pt-lg-0">
 									<div className="position-relative">

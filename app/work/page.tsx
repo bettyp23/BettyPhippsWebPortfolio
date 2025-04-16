@@ -271,6 +271,13 @@ export default function Work() {
 								<br />
 								have a project in mind or just want to chat, feel free to reach out!
 							</span>
+							<a
+								href="mailto:bp23e@fsu.edu"
+								className="btn"
+								style={{ backgroundColor: '#6f42c1', color: 'white', padding: '10px 20px', borderRadius: '5px' }}
+								>
+								Contact Me
+								</a>
 							{/* <div className="row mt-8">
 								<div className="col-lg-4 d-flex flex-column">
 									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
