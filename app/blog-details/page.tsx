@@ -233,7 +233,7 @@ export default function BlogDetails() {
 								have a project in mind or just want to chat about design, feel free to reach out!
 							</span>
 							<div className="row mt-8">
-								<div className="col-lg-4 d-flex flex-column">
+								{/* <div className="col-lg-4 d-flex flex-column">
 									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
 										<div className="bg-white icon-flip position-relative icon-shape icon-xxl border-linear-2 border-2 rounded-4">
 											<i className="ri-phone-fill text-primary-1 fs-26" />
@@ -274,7 +274,7 @@ export default function BlogDetails() {
 										</div>
 										<Link href="/https://maps.google.com/maps?q=1st+avenue,New+York" className="position-absolute top-0 start-0 w-100 h-100" />
 									</div>
-								</div>
+								</div> */}
 								<div className="col-lg-7 offset-lg-1 ps-lg-0 pt-5 pt-lg-0">
 									<div className="position-relative">
 										<div className="position-relative z-2">
