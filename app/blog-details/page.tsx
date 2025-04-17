@@ -59,21 +59,21 @@ export default function BlogDetails() {
 											<div className="border-linear-3 rounded-4 p-lg-6 p-md-4 p-3 mt-lg-0 mt-4">
 												<div className="d-flex align-items-center mb-3">
 													<i className="ri-time-line fs-6" />
-													<span className="ms-2 fs-6">16 mins to read</span>
+													<span className="ms-2 fs-6">3 mins to read</span>
 												</div>
 												<div className="d-flex align-items-center mb-3">
 													<i className="ri-calendar-schedule-line fs-6" />
-													<span className="ms-2 fs-6">Nov 21, 2024</span>
+													<span className="ms-2 fs-6">Apr 18, 2025</span>
 												</div>
 												<div className="d-flex align-items-center mb-3">
 													<i className="ri-user-line fs-6" />
-													<span className="ms-2 fs-6">By <Link className="fw-bold" href="/#">Alonso</Link></span>
+													<span className="ms-2 fs-6">By <Link className="fw-bold" href="/#">Betty Phipps</Link></span>
 												</div>
 											</div>
 											<div className="border-linear-3 rounded-4 p-lg-6 p-md-4 p-3 mt-4">
 												<span className="text-uppercase fs-7">Share</span> <br />
 												<div className="d-flex gap-3 pt-3">
-													<Link href="/#" className="text-decoration-none">
+													<Link href="https://www.facebook.com/sharer/sharer.php?u=${shareUrl}" className="text-decoration-none">
 														<i className="ri-facebook-circle-fill fs-18" />
 													</Link>
 													<Link href="/#" className="text-decoration-none">
