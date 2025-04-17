@@ -12,12 +12,10 @@ export default function BlogDetails() {
 							<div className="row">
 								<div className="col-lg-8 mx-lg-auto mb-8">
 									<div className="text-center">
-										<Link href="/#" className="btn btn-gradient d-inline-block text-uppercase"> Design trend </Link>
-										<h3 className="ds-3 mt-3 mb-4 text-dark">How to Create a Seamless Mobile Experience</h3>
+										<Link href="/#" className="btn btn-gradient d-inline-block text-uppercase"> AI </Link>
+										<h3 className="ds-3 mt-3 mb-4 text-dark">Nvidia’s Pivotal Plans to Transform the U.S. AI Infrastructure</h3>
 										<p className="text-300 fs-5 mb-0">
-											A great mobile experience can significantly enhance user satisfaction, increase <br />
-											engagement, and boost your app's success. Here’s a comprehensive guide to help you <br />
-											create a seamless mobile experience for your users.
+											Nvidia officially announced groundbreaking plans to manufacture its AI supercomputers in the United States for the first time on April 14, 2025, marking a significant shift in its product strategy. This move represents a departure from Nvidia’s traditional reliance on overseas production, strengthening supply chain resilience and transforming the country’s role in shaping the future of technology. Nvidia’s decision to relocate its AI manufacturing to the U.S. is about more than just products—it’s about positioning the U.S. as a leader in AI infrastructure and supply chain security. Historically dependent on overseas production, this shift not only enhances supply chain stability but also helps solidify the U.S.'s future in global AI innovation.
 										</p>
 									</div>
 								</div>
@@ -25,36 +23,37 @@ export default function BlogDetails() {
 								<div className="col-lg-10 mx-lg-auto mt-8">
 									<div className="row">
 										<div className="col-lg-9">
-											<h5>Prioritize User-Centric Design</h5>
-											<h5 className="fs-5 fw-medium">Understand Your Users</h5>
-											<p className="text-300">Conduct thorough user research to understand your target audience’s needs, preferences, and pain points. Use surveys, interviews, and usability testing to gather valuable insights.</p>
-											<h5 className="fs-5 fw-medium">Simplify Navigation</h5>
-											<p className="text-300">Design a clean and intuitive navigation structure. Ensure users can easily find what they’re looking for without feeling overwhelmed. Use familiar icons and clear labels to guide them.</p>
-											<h5 className="mt-6">Optimize Performance</h5>
-											<h5 className="fs-5 fw-medium">Fast Loading Times</h5>
-											<p className="text-300">Optimize your app to load quickly. Users expect instant gratification, and slow load times can lead to frustration and app abandonment. Use efficient coding practices and minimize the use of heavy graphics.</p>
-											<h5 className="fs-5 fw-medium">Smooth Animations</h5>
-											<p className="text-300">Ensure animations and transitions are smooth and do not hinder the app’s performance. Well-executed animations can enhance the user experience by providing visual feedback and making interactions feel natural.</p>
-											<h5 className="fs-5 fw-medium">Offline Access</h5>
+											<h5>The Stargate Joint Venture: Complementary Strategies for U.S. AI Dominance</h5>
+											<p className="text-300">The connection between Nvidia's manufacturing shift and the Stargate joint venture is worth highlighting. A quick recap: the partnership—featuring OpenAI, Oracle, and SoftBank—aims to build AI data centers and the power infrastructure necessary to support the rapid growth of artificial intelligence, primarily in Texas, with an eye toward long-term U.S. dominance in the field.</p>
+											<p className="text-300">The Stargate joint venture and Nvidia’s U.S. manufacturing plans are complementary pieces of a broader strategy. While Nvidia focuses on the hardware—AI chips and supercomputers—Stargate ensures the infrastructure (data centers and power systems) is in place to support and scale AI applications.</p>
+											<h5 className="mt-6">My Deep Dive</h5>
+											<p className="text-300">I believe Nvidia's decision to produce its AI chips and supercomputers in the U.S. is a smart long-term strategy, especially given the current geopolitical and economic climate. This move aligns with the country’s growing need for independent technological capabilities, particularly in light of rising tariffs and increasing global uncertainty.</p>
+											<p className="text-300">From an economic standpoint, Nvidia's plan presents a major opportunity. The potential for job creation is significant, especially as the U.S. takes on a more central role in the expanding AI sector. Over time, this could reshape the workforce and deliver long-term benefits.</p>
+											<p className="text-300">That said, I remain skeptical about the feasibility of Nvidia’s proposed $500 billion investment. While the promise of job creation is compelling, many analysts have pointed out that the projected development timeline seems overly optimistic. Regulatory challenges, infrastructure bottlenecks, and supply chain constraints could all slow Nvidia’s progress toward its ambitious goals.</p>
 											<p className="text-300">Provide offline capabilities for essential features. Allowing users to access certain functionalities without an internet connection can greatly improve their experience, especially in areas with poor connectivity.</p>
-											<div className="d-flex align-items-center my-6">
+											<p className="text-300">Additionally, I believe companies like Nvidia should be allowed to lead without excessive government interference. The private sector has repeatedly proven its ability to drive innovation, and Nvidia—already a leader in the AI space—is well-positioned to manage the complexities of infrastructure development.</p>
+											<p className="text-300">Ultimately, while Nvidia’s vision holds significant long-term potential, it's important to temper expectations. Some of the promises may be more about strategic market positioning than imminent, large-scale change—something worth considering when evaluating both Nvidia’s role and the broader Stargate initiative.</p>
+											<h5 className="mt-6">My Deep Dive</h5>
+											<p className="text-300">As someone entering the tech space, I can’t help but wonder: where do students and early-career professionals fit into all of this? What new roles in AI, infrastructure, or policy might emerge—and how can we best prepare to step into them?</p>
+											<p className="text-300">Will this shift further concentrate power among tech giants, or open the door to new public-private models of innovation?</p>
+										 <div className="d-flex align-items-center my-6">
 												<img src="/assets/imgs/blog/blog-1/img-10.png" alt="" />
 												<div className="d-md-flex flex-column d-none gap-3 ms-3">
 													<img src="/assets/imgs/blog/blog-1/img-11.png" alt="" />
 													<img src="/assets/imgs/blog/blog-1/img-12.png" alt="" />
 												</div>
 											</div>
-											<h5>Ensure Robust Security</h5>
+											{/* <h5>Ensure Robust Security</h5>
 											<h5 className="fs-5 fw-medium">Data Protection</h5>
 											<p className="text-300">Implement strong security measures to protect user data. Use encryption, secure authentication methods, and regular security audits to safeguard sensitive information.</p>
 											<h5 className="fs-5 fw-medium">Transparent Policies</h5>
 											<p className="text-300">Be transparent about your data collection and usage policies. Provide users with clear information about how their data is used and give them control over their privacy settings.</p>
 											<h5 className="fs-5 fw-medium">Regular Updates</h5>
-											<p className="text-300">Keep your app updated with the latest security patches and improvements. Regular updates not only enhance security but also show users that you are actively maintaining and improving the app.</p>
-											<div className="border-linear-3 rounded-4 p-lg-6 p-md-4 p-3 mt-6">
+											<p className="text-300">Keep your app updated with the latest security patches and improvements. Regular updates not only enhance security but also show users that you are actively maintaining and improving the app.</p> */}
+											{/* <div className="border-linear-3 rounded-4 p-lg-6 p-md-4 p-3 mt-6">
 												<h4>Conclusion</h4>
 												<p className="text-300 mt-4">Creating a seamless mobile experience requires a user-centric approach, performance optimization, responsive design, user engagement strategies, and robust security measures. By focusing on these key areas, you can build a mobile app that not only meets user expectations but also stands out in the competitive app market. Remember, a great mobile experience can turn users into loyal advocates, driving the success of your app.</p>
-											</div>
+											</div> */}
 										</div>
 										<div className="col-lg-3 col-md-6 col-8">
 											<div className="border-linear-3 rounded-4 p-lg-6 p-md-4 p-3 mt-lg-0 mt-4">
