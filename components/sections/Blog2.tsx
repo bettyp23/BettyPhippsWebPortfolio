@@ -31,7 +31,7 @@ export default function Blog2() {
 									</div>
 								</div>
 								<div className="blog-card__content position-relative text-center mt-4">
-									<span className="blog-card__date fs-7">March 28, 2023 • 3 min read</span>
+									<span className="blog-card__date fs-7">April 18, 2025 • 3 min read</span>
 									<h6 className="blog-card__title mt-2">Optimize Your Web Application for Speed</h6>
 									<p className="blog-card__description fs-7">Stay ahead of the curve with these emerging trends in UI/UX design.</p>
 									<Link href="#" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
@@ -50,7 +50,7 @@ export default function Blog2() {
 									</div>
 								</div>
 								<div className="blog-card__content position-relative text-center mt-4">
-									<span className="blog-card__date fs-7">March 28, 2023 • 3 min read</span>
+									<span className="blog-card__date fs-7">April 18, 2025 • 3 min read</span>
 									<h6 className="blog-card__title mt-2">Best Practices for Secure Web Development</h6>
 									<p className="blog-card__description fs-7">Stay ahead of the curve with these emerging trends in UI/UX design.</p>
 									<Link href="#" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
@@ -69,7 +69,7 @@ export default function Blog2() {
 									</div>
 								</div>
 								<div className="blog-card__content position-relative text-center mt-4">
-									<span className="blog-card__date fs-7">March 28, 2023 • 3 min read</span>
+									<span className="blog-card__date fs-7">April 18, 2025 • 3 min read</span>
 									<h6 className="blog-card__title mt-2">10 JavaScript Frameworks for Web Development in 2024</h6>
 									<p className="blog-card__description fs-7">Stay ahead of the curve with these emerging trends in UI/UX design.</p>
 									<Link href="#" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />

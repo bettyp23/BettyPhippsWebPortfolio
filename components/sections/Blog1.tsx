@@ -32,8 +32,8 @@ export default function Blog1() {
 									</div>
 								</div>
 								<div className="blog-card__content position-relative text-center mt-4">
-									<span className="blog-card__date fs-7">March 28, 2023 • 3 min read</span>
-									<h5 className="blog-card__title">5 UI/UX Trends to Watch in 2024</h5>
+									<span className="blog-card__date fs-7">April 18, 2025 • 3 min read</span>
+									<h5 className="blog-card__title">Nvidia’s Pivotal Plans to Transform the U.S. AI Infrastructure</h5>
 									<p className="blog-card__description fs-6">Stay ahead of the curve with these emerging trends in UI/UX design.</p>
 									<Link href="/blog-details" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
 								</div>
