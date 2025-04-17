@@ -61,9 +61,9 @@ export default function PortfolioFilter() {
 									<p>Pre-trained sentiment analysis model from HuggingFace, based on 
 										       transformer architectures (e.g., BERT, DistilBERT).</p>
 								</Link>
-								<Link href="/work-single" className="project-card-icon icon-shape ms-auto icon-md rounded-circle">
+								<div className="project-card-icon icon-shape ms-auto icon-md rounded-circle">
 									<i className="ri-arrow-right-up-line" />
-								</Link>
+								</div>
 							</div>
 						</div>
 					</div>
@@ -77,17 +77,17 @@ export default function PortfolioFilter() {
 									<h3 className="fw-semibold">AI Investment Advisor</h3>
 									<p>provide investment advice related to a specific stock, and combines this with real-time stock price data.</p>
 								</Link>
-								<Link href="/work-single" className="project-card-icon icon-shape ms-auto icon-md rounded-circle">
+								<div className="project-card-icon icon-shape ms-auto icon-md rounded-circle">
 									<i className="ri-arrow-right-up-line" />
-								</Link>
+								</div>
 							</div>
 						</div>
 					</div>
 					<div className="filter-item col-lg-6 col-12 ui app">
 						<div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
-							<Link href="/work-single">
+							<div>
 								<img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/img-3.png" alt="infinia" />
-							</Link>
+							</div>
 							<div className="d-flex align-items-center mt-4">
 								<Link href="/work-single" className="project-card-content">
 									<h3 className="fw-semibold">CodePathTIP</h3>
@@ -101,17 +101,17 @@ export default function PortfolioFilter() {
 					</div>
 					<div className="filter-item col-lg-6 col-12 app app dataanalysis brand">
 						<div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
-							<Link href="">
+							<div>
 								<img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/img-4.png" alt="infinia" />
-							</Link>
+							</div>
 							<div className="d-flex align-items-center mt-4">
 								<Link href="https://github.com/bettyp23/Project.0_SpaceInvaders" className="project-card-content">
 									<h3 className="fw-semibold">Space Invaders Game</h3>
 									<p>Developed a dynamic, grid-based C++ game inspired by Space Invaders</p>
 								</Link>
-								<Link href="/work-single" className="project-card-icon icon-shape ms-auto icon-md rounded-circle">
+								<div className="project-card-icon icon-shape ms-auto icon-md rounded-circle">
 									<i className="ri-arrow-right-up-line" />
-								</Link>
+								</div>
 							</div>
 						</div>
 					</div>

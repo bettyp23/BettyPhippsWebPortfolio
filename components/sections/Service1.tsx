@@ -10,7 +10,7 @@ export default function Service1() {
 					<div className="row align-items-end">
 						<div className="col-lg-7 me-auto">
 							<h3 className="ds-3 mt-3 mb-3 text-primary-1">What I'm Passionate About</h3>
-							<span className="fs-5 fw-medium text-200">focusing on the skills I'm mastering and the areas of tech that excite me,
+							<span className="fs-5 fw-medium text-200">Focusing on the skills I'm mastering and the areas of tech that excite me,
 								<br />
 								all while working towards making a meaningful impact.
 							</span>

@@ -10,7 +10,7 @@ export default function Home1() {
 							<span className="text-dark">👋 Hi there, I'm Betty</span>
 							<h1 className="ds-2 mb-3">Betty Phipps <span className="text-primary-1">Website Portfolio</span></h1>
 							<p className="text-300 mb-6">
-								This portfolio highlights my skills, leadership, and projects as a computer science student, showcasing my growth in software development, entrepreneurship, and my commitment to innovation. It reflects my dedication to using technology to solve real-world problems and drive impactful change.
+								This portfolio highlights my skills, leadership, and projects as a computer science student, showcasing my growth in software development, entrepreneurship, and my commitment to innovation.
 							</p>
 							<Link href="/assets/Resume.BettyPhippsSPR25.pdf" className="btn btn-gradient me-2" target="_blank">
 								Download Resume

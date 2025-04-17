@@ -21,7 +21,7 @@ export default function Projects1() {
 							</span>
 						</div>
 						<div className="col-lg-auto">
-							<Link href="https://github.com/bettyp23" className="btn btn-gradient mt-lg-0 mt-5 ms-lg-auto d-none d-xl-block">
+							<Link href="https://github.com/bettyp23?tab=repositories" className="btn btn-gradient mt-lg-0 mt-5 ms-lg-auto d-none d-xl-block">
 								View All Projects
 								<i className="ri-arrow-right-up-line" />
 							</Link>
@@ -34,7 +34,7 @@ export default function Projects1() {
 			</div>
 			<div className="contairer overflow-hidden">
 				<div className="row justify-content-center position-relative button-project pb-160 bg-900 pt-1">
-					<Link href="https://github.com/bettyp23" className="icon_hover position-relative z-1 icon-shape icon_150 border-linear-2 rounded-circle position-relative overflow-hidden bg-white hover-up">
+					<Link href="https://github.com/bettyp23?tab=repositories" className="icon_hover position-relative z-1 icon-shape icon_150 border-linear-2 rounded-circle position-relative overflow-hidden bg-white hover-up">
 						<span className="icon-shape icon-md bg-linear-2 rounded-circle position-absolute bottom-0 end-0" />
 						<p className="m-0 fs-7 fw-bold text-capitalize position-absolute top-50 start-50 translate-middle">
 							View All Projects
