@@ -14,7 +14,7 @@ export default function BlogList() {
 								<div className="col-lg-8 mx-lg-auto mb-lg-0">
 									<div className="text-center">
 										<div className="btn btn-gradient d-inline-block text-uppercase">
-											Recent blog
+											Betty's Deep Dive
 										</div>
 										<h3 className="ds-3 mt-3 mb-4 text-300">
 											Explore the <span className="text-dark">a deep dive</span> into the innovations transforming our industry.
