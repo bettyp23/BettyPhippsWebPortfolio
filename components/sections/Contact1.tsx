@@ -9,19 +9,20 @@ export default function Contact1() {
 				<div className="container position-relative z-1">
 					<h3 className="ds-3 mt-3 mb-3 text-primary-1">Get in touch</h3>
 					<span className="fs-5 fw-medium text-200">
-					I'm always open to new projects and collaborate with innovative minds!
-					</span>
+						I'm always open to new projects and collaborate with innovative minds!
+					</span>	
 					<a
-								href="mailto:bp23e@fsu.edu"
-								className="btn"
-								style={{
-								  backgroundColor: '#6f42c1',
-								  color: 'white',
-								  padding: '10px 20px',
-								  borderRadius: '5px',
-								  marginTop: '100px', // Adjust this value to move the button down
-								}}
-							  >
+						href="mailto:bp23e@fsu.edu"
+						className="btn"
+						style={{
+						backgroundColor: '#6f42c1',
+						color: 'white',
+						padding: '10px 20px',
+						borderRadius: '5px',
+						marginTop: '30px',
+						}}
+					>
+
 								Contact Me
 								</a>
 					{/* <div className="row mt-8">
