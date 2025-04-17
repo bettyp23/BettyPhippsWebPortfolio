@@ -76,17 +76,8 @@ export default function BlogDetails() {
 													<Link href="https://www.facebook.com/sharer/sharer.php?u=https://bettyphippsportfolio.netlify.app/blog-details" className="text-decoration-none">
 														<i className="ri-facebook-circle-fill fs-18" />
 													</Link>
-													<Link href="/#" className="text-decoration-none">
+													<Link href="https://twitter.com/intent/tweet?url=https://bettyphippsportfolio.netlify.app/blog-details" className="text-decoration-none">
 														<i className="ri-twitter-x-fill fs-18" />
-													</Link>
-													<Link href="/#" className="text-decoration-none">
-														<i className="ri-instagram-fill fs-5" />
-													</Link>
-													<Link href="/#" className="text-decoration-none">
-														<i className="ri-pinterest-fill fs-5" />
-													</Link>
-													<Link href="/#" className="text-decoration-none">
-														<i className="ri-google-fill fs-5" />
 													</Link>
 												</div>
 											</div>
