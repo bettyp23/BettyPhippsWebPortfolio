@@ -52,9 +52,9 @@ export default function PortfolioFilter() {
 					<div className="grid-sizer" />
 					<div className="filter-item col-lg-6 col-12 brand ui app">
 						<div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
-							<Link href="/work-single">
+							<div>
 								<img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/img-1.png" alt="infinia" />
-							</Link>
+							</div>
 							<div className="d-flex align-items-center mt-4">
 								<Link href="https://github.com/bettyp23/AI-NLP-Analysis-and-Stock-Data-Script" className="project-card-content">
 									<h3 className="fw-semibold">NLP Stock Data</h3>
@@ -69,9 +69,9 @@ export default function PortfolioFilter() {
 					</div>
 					<div className="filter-item col-lg-6 col-12 webdesign brand dataanalysis brand">
 						<div className="project-item rounded-4 overflow-hidden position-relative p-md-4 p-3 bg-white">
-							<Link href="/work-single">
+							<div>
 								<img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/img-2.png" alt="infinia" />
-							</Link>
+							</div>
 							<div className="d-flex align-items-center mt-4">
 								<Link href="https://github.com/bettyp23/AI-Powered-Stock-Sentiment-Investment-Advisor" className="project-card-content">
 									<h3 className="fw-semibold">AI Investment Advisor</h3>
@@ -89,10 +89,10 @@ export default function PortfolioFilter() {
 								<img className="rounded-3 w-100 zoom-img" src="/assets/imgs/projects/projects-1/img-3.png" alt="infinia" />
 							</div>
 							<div className="d-flex align-items-center mt-4">
-								<Link href="/work-single" className="project-card-content">
+								<div className="project-card-content">
 									<h3 className="fw-semibold">CodePathTIP</h3>
 									<p>Algorithmic Thinking & Problem Solving · Data Structures & Complexity Analysis · Systems & Object-Oriented Design · Sorting Algorithms</p>
-								</Link>
+								</div>
 								<Link href="https://github.com/bettyp23/CodePathTIP" className="project-card-icon icon-shape ms-auto icon-md rounded-circle">
 									<i className="ri-arrow-right-up-line" />
 								</Link>

@@ -53,7 +53,7 @@ export default function Service1() {
 									{/* <div className="d-md-flex d-block ps-lg-10 align-items-center justify-content-end w-100"> */}
 									<div className="ps-lg-10 w-lg-50 w-100">
 										<p className="service-card-text my-3">
-											turning data into insights that help solve problems <br />
+											Turning data into insights that help solve problems <br />
 											and drive smarter decisions for people and businesses.
 										</p>
 									</div>
