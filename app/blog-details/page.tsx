@@ -43,17 +43,6 @@ export default function BlogDetails() {
 													<img src="/assets/imgs/blog/blog-1/img-12.png" alt="" />
 												</div>
 											</div>
-											{/* <h5>Ensure Robust Security</h5>
-											<h5 className="fs-5 fw-medium">Data Protection</h5>
-											<p className="text-300">Implement strong security measures to protect user data. Use encryption, secure authentication methods, and regular security audits to safeguard sensitive information.</p>
-											<h5 className="fs-5 fw-medium">Transparent Policies</h5>
-											<p className="text-300">Be transparent about your data collection and usage policies. Provide users with clear information about how their data is used and give them control over their privacy settings.</p>
-											<h5 className="fs-5 fw-medium">Regular Updates</h5>
-											<p className="text-300">Keep your app updated with the latest security patches and improvements. Regular updates not only enhance security but also show users that you are actively maintaining and improving the app.</p> */}
-											{/* <div className="border-linear-3 rounded-4 p-lg-6 p-md-4 p-3 mt-6">
-												<h4>Conclusion</h4>
-												<p className="text-300 mt-4">Creating a seamless mobile experience requires a user-centric approach, performance optimization, responsive design, user engagement strategies, and robust security measures. By focusing on these key areas, you can build a mobile app that not only meets user expectations but also stands out in the competitive app market. Remember, a great mobile experience can turn users into loyal advocates, driving the success of your app.</p>
-											</div> */}
 										</div>
 										<div className="col-lg-3 col-md-6 col-8">
 											<div className="border-linear-3 rounded-4 p-lg-6 p-md-4 p-3 mt-lg-0 mt-4">
@@ -78,6 +67,11 @@ export default function BlogDetails() {
 													</Link>
 													<Link href="https://twitter.com/intent/tweet?url=https://bettyphippsportfolio.netlify.app/blog-details" className="text-decoration-none">
 														<i className="ri-twitter-x-fill fs-18" />
+													</Link>
+													<Link 
+														href="https://www.linkedin.com/shareArticle?mini=true&url=https://bettyphippsportfolio.netlify.app/blog-details" 
+														className="text-decoration-none" >
+														<i className="ri-linkedin-box-fill fs-18" />
 													</Link>
 												</div>
 											</div>
