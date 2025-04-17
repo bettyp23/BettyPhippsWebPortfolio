@@ -51,6 +51,7 @@ export default function Resume1() {
 								</div>
 							</div>
 						</div>
+
 						<div className="col-lg-6 col-12">
 							<div className="resume-card p-lg-6 p-4 h-100">
 								<div className="resume-card-header d-flex align-items-end">
@@ -65,13 +66,39 @@ export default function Resume1() {
 									</div>
 									<div className="resume-card-item px-4 py-3 mt-5">
 										<p className="fw-extra-bold text-linear-1 mb-2">Dec 2023 – May 2024</p>
-										<h5>Computer Systems Operator</h5>
-										<p className="text-300 mb-0">The Florida Lottery</p>
+										<h5>Help Desk Technician</h5>
+										<p className="text-300 mb-0">FSU College of Communication & Information</p>
 									</div>
 									<div className="resume-card-item px-4 py-3 mt-5">
 										<p className="fw-extra-bold text-linear-1 mb-2">Dec 2024 – Mar 2025</p>
+										<h5>Computer Systems Operator</h5>
+										<p className="text-300 mb-0">The Florida Lottery</p>
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div className="col-lg-6 col-12">
+							<div className="resume-card p-lg-6 p-4 h-100">
+								<div className="resume-card-header d-flex align-items-end">
+									<img className="border-linear-1 border-3 pb-2 pe-2" src="/assets/imgs/resume/resume-1/icon-2.svg" alt="" />
+									<h3 className="fw-semibold mb-0 border-bottom border-600 border-3 pb-2 w-100">Experience</h3>
+								</div>
+								<div className="resume-card-body">
+									<div className="resume-card-item px-4 py-3 mt-5">
+										<p className="fw-extra-bold text-linear-1 mb-2">May 2024 – Aug 2024</p>
+										<h5>IT Business Analyst Intern</h5>
+										<p className="text-300 mb-0">NextEra Energy</p>
+									</div>
+									<div className="resume-card-item px-4 py-3 mt-5">
+										<p className="fw-extra-bold text-linear-1 mb-2">Dec 2023 – May 2024</p>
 										<h5>Help Desk Technician</h5>
 										<p className="text-300 mb-0">FSU College of Communication & Information</p>
+									</div>
+									<div className="resume-card-item px-4 py-3 mt-5">
+										<p className="fw-extra-bold text-linear-1 mb-2">Dec 2024 – Mar 2025</p>
+										<h5>Computer Systems Operator</h5>
+										<p className="text-300 mb-0">The Florida Lottery</p>
 									</div>
 								</div>
 							</div>
