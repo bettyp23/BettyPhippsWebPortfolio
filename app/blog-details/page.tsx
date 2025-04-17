@@ -123,49 +123,11 @@ export default function BlogDetails() {
 										<div className="blog-card__content position-relative text-center mt-4">
 											<span className="blog-card__date fs-7">April 18, 2025 • 3 min read</span>
 											<h5 className="blog-card__title">Nvidia’s Pivotal Plans to Transform the U.S. AI Infrastructure</h5>
-											<p className="blog-card__description fs-6">Stay ahead of the curve with these emerging trends in UI/UX design.</p>
+											<p className="blog-card__description fs-6">Nvidia officially announced groundbreaking plans to manufacture its AI supercomputers in the United States for the first time on April 14, 2025, marking a significant shift in its product strategy..</p>
 											<Link href="/blog-details" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
 										</div>
 									</div>
 								</div>
-								{/* <div className="col-lg-4">
-									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
-										<div className="blog-card__image position-relative">
-											<div className="zoom-img rounded-3 overflow-hidden">
-												<img className="w-100" src="/assets/imgs/blog/blog-1/img-2.png" alt="" />
-												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">App Design</Link>
-												<Link href="/blog-details" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape bg-linear-1 rounded-circle">
-													<i className="ri-arrow-right-up-line text-dark" />
-												</Link>
-											</div>
-										</div>
-										<div className="blog-card__content position-relative text-center mt-4">
-											<span className="blog-card__date fs-7">March 28, 2023 • 3 min read</span>
-											<h5 className="blog-card__title">The Importance of User Research</h5>
-											<p className="blog-card__description fs-6">Stay ahead of the curve with these emerging trends in UI/UX design.</p>
-											<Link href="/blog-details" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
-										</div>
-									</div>
-								</div>
-								<div className="col-lg-4">
-									<div className="blog-card rounded-4 mb-lg-3 mb-md-5 mb-3">
-										<div className="blog-card__image position-relative">
-											<div className="zoom-img rounded-3 overflow-hidden">
-												<img className="w-100" src="/assets/imgs/blog/blog-1/img-3.png" alt="" />
-												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">App Design</Link>
-												<Link href="/blog-details" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape bg-linear-1 rounded-circle">
-													<i className="ri-arrow-right-up-line text-dark" />
-												</Link>
-											</div>
-										</div>
-										<div className="blog-card__content position-relative text-center mt-4">
-											<span className="blog-card__date fs-7">March 28, 2023 • 3 min read</span>
-											<h5 className="blog-card__title">The Role of Color Psychology</h5>
-											<p className="blog-card__description fs-6">Stay ahead of the curve with these emerging trends in UI/UX design.</p>
-											<Link href="/blog-details" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
-										</div>
-									</div>
-								</div> */}
 							</div>
 						</div>
 					</section>
