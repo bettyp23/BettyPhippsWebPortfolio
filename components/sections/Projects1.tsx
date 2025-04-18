@@ -29,9 +29,9 @@ export default function Projects1() {
 					</div>
 				</div>
 			</div>
-			{/* <div className="bg-900 fillter-project" data-background="assets/imgs/projects/projects-1/background.png">
+			<div className="bg-900 fillter-project" data-background="assets/imgs/projects/projects-1/background.png">
 				<PortfolioFilter />
-			</div> */}
+			</div>
 			<div className="contairer overflow-hidden">
 				<div className="row justify-content-center position-relative button-project pb-160 bg-900 pt-1">
 					<Link href="https://github.com/bettyp23?tab=repositories" className="icon_hover position-relative z-1 icon-shape icon_150 border-linear-2 rounded-circle position-relative overflow-hidden bg-white hover-up">
