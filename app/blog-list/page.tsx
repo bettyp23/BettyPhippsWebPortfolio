@@ -86,10 +86,10 @@ export default function BlogList() {
 									<div className="col-lg-auto col-md-6">
 										<div className="counter-item-cover counter-item">
 											<div className="content text-center mx-auto d-flex align-items-center">
-												<span className="ds-3 count text-primary-1 fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">12</span></span>
+												<span className="ds-3 count text-primary-1 fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">20</span></span>
 												<div className="text-start ms-2">
-													<p className="fs-5 mb-0 text-300">Year of</p>
-													<p className="fs-5 mb-0 fw-bold">Experience</p>
+												<p className="fs-5 mb-0 text-300">Github</p>
+												<p className="fs-5 mb-0 fw-bold">Projects</p>
 												</div>
 											</div>
 										</div>
@@ -97,10 +97,10 @@ export default function BlogList() {
 									<div className="col-lg-auto col-md-6">
 										<div className="counter-item-cover counter-item">
 											<div className="content text-center mx-auto d-flex align-items-center">
-												<span className="ds-3 count text-primary-1 fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">250</span></span>
+												<span className="ds-3 count text-primary-1 fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">17</span></span>
 												<div className="text-start ms-2">
-													<p className="fs-5 mb-0 text-300">Projects</p>
-													<p className="fs-5 mb-0 fw-bold">Completed</p>
+												<p className="fs-5 mb-0 text-300">Workshops &</p>
+												<p className="fs-5 mb-0 fw-bold">Presentations</p>
 												</div>
 											</div>
 										</div>
@@ -108,10 +108,10 @@ export default function BlogList() {
 									<div className="col-lg-auto col-md-6">
 										<div className="counter-item-cover counter-item">
 											<div className="content text-center mx-auto d-flex align-items-center">
-												<span className="ds-3 count text-primary-1 fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">680</span></span>
+												<span className="ds-3 count text-primary-1 fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">5</span></span>
 												<div className="text-start ms-2">
-													<p className="fs-5 mb-0 text-300">Satisfied</p>
-													<p className="fs-5 mb-0 fw-bold">Happy Clients</p>
+												<p className="fs-5 mb-0 text-300">Tech experience &</p>
+												<p className="fs-5 mb-0 fw-bold">Internship and part-times</p>
 												</div>
 											</div>
 										</div>
@@ -119,10 +119,10 @@ export default function BlogList() {
 									<div className="col-lg-auto col-md-6">
 										<div className="counter-item-cover counter-item">
 											<div className="content text-center mx-auto d-flex align-items-center">
-												<span className="ds-3 count text-primary-1 fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">18</span></span>
+												<span className="ds-3 count text-primary-1 fw-medium my-0">+<span className="odometer ds-1 text-dark fw-semibold">263</span></span>
 												<div className="text-start ms-2">
-													<p className="fs-5 mb-0 text-300">Awards</p>
-													<p className="fs-5 mb-0 fw-bold">Won Received</p>
+												<p className="fs-5 mb-0 text-300">Hours Volunteering</p>
+												<p className="fs-5 mb-0 fw-bold">& Mentoring</p>
 												</div>
 											</div>
 										</div>
