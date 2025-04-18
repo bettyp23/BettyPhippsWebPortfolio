@@ -5,10 +5,9 @@ export default function Contact1() {
 	return (
 								<>
 								<section id="contact" className="section-contact-1 bg-900 position-relative pt-150 pb-lg-250 pb-150 overflow-hidden">
-									<div className="container position-relative z-1 d-flex flex-column align-items-center text-center">
-									<h3 className="ds-3 mt-3 mb-3 text-primary-1">Get in touch</h3>
-
-									<span className="fs-5 fw-medium text-200 mb-4">
+						<div className="container position-relative z-1">
+							<h3 className="ds-3 mt-3 mb-3 text-primary-1">Get in touch</h3>
+							<span className="fs-5 fw-medium text-200 mb-4">
 										I'm always open to new projects and collaborating with innovative minds! If something here resonates with you, or you just want to say hi, I'd love to connect!
 									</span>
 									<a
