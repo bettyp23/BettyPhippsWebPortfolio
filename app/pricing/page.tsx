@@ -256,7 +256,7 @@ export default function Pricing() {
 							I'm always open to new projects and collaborating with innovative minds!
 							</span>
 
-							<div style={{ textAlign: 'center' }}>
+							<div style={{ textAlign: 'center', zIndex: 2, position: 'relative' }}>
 							<a
 								href="mailto:bp23e@fsu.edu"
 								className="btn"
