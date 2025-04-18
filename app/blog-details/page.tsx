@@ -15,7 +15,7 @@ export default function BlogDetails() {
 										<Link href="/#" className="btn btn-gradient d-inline-block text-uppercase"> AI </Link>
 										<h3 className="ds-3 mt-3 mb-4 text-dark">Nvidia’s Pivotal Plans to Transform the U.S. AI Infrastructure</h3>
 										<p className="text-300 fs-5 mb-0">
-											Nvidia officially announced groundbreaking plans to manufacture its AI supercomputers in the United States for the first time on April 14, 2025, marking a significant shift in its product strategy. This move represents a departure from Nvidia’s traditional reliance on overseas production, strengthening supply chain resilience and transforming the country’s role in shaping the future of technology. Nvidia’s decision to relocate its AI manufacturing to the U.S. is about more than just products—it’s about positioning the U.S. as a leader in AI infrastructure and supply chain security. Historically dependent on overseas production, this shift not only enhances supply chain stability but also helps solidify the U.S.'s future in global AI innovation.
+											Nvidia officially announced groundbreaking plans to manufacture its AI supercomputers in the United States for the first time on April 14, 2025, marking a significant shift in its product strategy. 
 										</p>
 									</div>
 								</div>
@@ -23,6 +23,8 @@ export default function BlogDetails() {
 								<div className="col-lg-10 mx-lg-auto mt-8">
 									<div className="row">
 										<div className="col-lg-9">
+											<h5 className="mt-6">AI Supercomputer</h5>
+											<p className="text-300">This move represents a departure from Nvidia’s traditional reliance on overseas production, strengthening supply chain resilience and transforming the country’s role in shaping the future of technology. Nvidia’s decision to relocate its AI manufacturing to the U.S. is about more than just products—it’s about positioning the U.S. as a leader in AI infrastructure and supply chain security. Historically dependent on overseas production, this shift not only enhances supply chain stability but also helps solidify the U.S.'s future in global AI innovation.</p>
 											<h5>The Stargate Joint Venture: Complementary Strategies for U.S. AI Dominance</h5>
 											<p className="text-300">The connection between Nvidia's manufacturing shift and the Stargate joint venture is worth highlighting. A quick recap: the partnership—featuring OpenAI, Oracle, and SoftBank—aims to build AI data centers and the power infrastructure necessary to support the rapid growth of artificial intelligence, primarily in Texas, with an eye toward long-term U.S. dominance in the field.</p>
 											<p className="text-300">The Stargate joint venture and Nvidia’s U.S. manufacturing plans are complementary pieces of a broader strategy. While Nvidia focuses on the hardware—AI chips and supercomputers—Stargate ensures the infrastructure (data centers and power systems) is in place to support and scale AI applications.</p>
@@ -99,7 +101,7 @@ export default function BlogDetails() {
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
 												<img className="w-100" src="/assets/imgs/blog/blog-1/img-1.png" alt="" />
-												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">App Design</Link>
+												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">AI</Link>
 												<Link href="/blog-details" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape bg-linear-1 rounded-circle">
 													<i className="ri-arrow-right-up-line text-dark" />
 												</Link>

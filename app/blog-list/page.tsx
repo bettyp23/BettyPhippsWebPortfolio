@@ -32,7 +32,7 @@ export default function BlogList() {
 										<div className="blog-card__image position-relative">
 											<div className="zoom-img rounded-3 overflow-hidden">
 												<img className="w-100" src="/assets/imgs/blog/blog-1/img-1.png" alt="" />
-												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">App Design</Link>
+												<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep btn btn-gradient fw-medium rounded-3 px-3 py-2" href="/blog-details">AI</Link>
 												<Link href="/blog-details" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape bg-linear-1 rounded-circle">
 													<i className="ri-arrow-right-up-line text-dark" />
 												</Link>

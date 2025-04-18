@@ -81,7 +81,7 @@ export default function Work() {
 												<div className="card__content px-md-4 px-3">
 													<div className="card__title d-md-flex align-items-center mb-0 mb-lg-2">
 														<Link href="/work-single" className="card_title_link">
-															<p className="text-primary-1 mb-0 mb-md-2">APP DESIGN</p>
+															<p className="text-primary-1 mb-0 mb-md-2">AI</p>
 															<h3 className="fw-semibold">Fitness App UI/UX</h3>
 														</Link>
 														<Link href="/work-single" className="card-icon d-none d-md-inline-flex border text-dark border-dark icon-shape ms-auto icon-md rounded-circle">
