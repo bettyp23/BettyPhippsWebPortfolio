@@ -11,7 +11,6 @@ export default function Contact1() {
 									<span className="fs-5 fw-medium text-200 mb-4">
 										I'm always open to new projects and collaborating with innovative minds! If something here resonates with you, or you just want to say hi, I'd love to connect!
 									</span>
-
 									<a
 										href="mailto:bp23e@fsu.edu"
 										className="btn"

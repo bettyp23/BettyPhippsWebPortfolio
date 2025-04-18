@@ -32,10 +32,9 @@ export default function BlogDetails() {
 											<p className="text-300">I believe Nvidia's decision to produce its AI chips and supercomputers in the U.S. is a smart long-term strategy, especially given the current geopolitical and economic climate. This move aligns with the country’s growing need for independent technological capabilities, particularly in light of rising tariffs and increasing global uncertainty.</p>
 											<p className="text-300">From an economic standpoint, Nvidia's plan presents a major opportunity. The potential for job creation is significant, especially as the U.S. takes on a more central role in the expanding AI sector. Over time, this could reshape the workforce and deliver long-term benefits.</p>
 											<p className="text-300">That said, I remain skeptical about the feasibility of Nvidia’s proposed $500 billion investment. While the promise of job creation is compelling, many analysts have pointed out that the projected development timeline seems overly optimistic. Regulatory challenges, infrastructure bottlenecks, and supply chain constraints could all slow Nvidia’s progress toward its ambitious goals.</p>
-											<p className="text-300">Provide offline capabilities for essential features. Allowing users to access certain functionalities without an internet connection can greatly improve their experience, especially in areas with poor connectivity.</p>
 											<p className="text-300">Additionally, I believe companies like Nvidia should be allowed to lead without excessive government interference. The private sector has repeatedly proven its ability to drive innovation, and Nvidia—already a leader in the AI space—is well-positioned to manage the complexities of infrastructure development.</p>
 											<p className="text-300">Ultimately, while Nvidia’s vision holds significant long-term potential, it's important to temper expectations. Some of the promises may be more about strategic market positioning than imminent, large-scale change—something worth considering when evaluating both Nvidia’s role and the broader Stargate initiative.</p>
-											<h5 className="mt-6">My Deep Dive</h5>
+											<h5 className="mt-6">Beyond the Dive</h5>
 											<p className="text-300">As someone entering the tech space, I can’t help but wonder: where do students and early-career professionals fit into all of this? What new roles in AI, infrastructure, or policy might emerge—and how can we best prepare to step into them?</p>
 											<p className="text-300">Will this shift further concentrate power among tech giants, or open the door to new public-private models of innovation?</p>
 										 <div className="d-flex align-items-center my-6">
@@ -175,62 +174,21 @@ export default function BlogDetails() {
 					<section id="contact" className="section-contact-1 bg-900 position-relative pt-150 pb-lg-250 pb-150 overflow-hidden">
 						<div className="container position-relative z-1">
 							<h3 className="ds-3 mt-3 mb-3 text-primary-1">Get in touch</h3>
-							<span className="fs-5 fw-medium text-200">
-								I'm always open to new projects and collaborate with innovative minds!
-							</span>
-							<a
-								href="mailto:bp23e@fsu.edu"
-								className="btn"
-								style={{
-								  backgroundColor: '#6f42c1',
-								  color: 'white',
-								  padding: '10px 20px',
-								  borderRadius: '5px',
-								  marginTop: '100px', // Adjust this value to move the button down
-								}}
-							  >
-								Contact Me
-								</a>
-							{/* <div className="row mt-8">
-								<div className="col-lg-7 offset-lg-1 ps-lg-0 pt-5 pt-lg-0">
-									<div className="position-relative">
-										<div className="position-relative z-2">
-											<h3>Leave a messge</h3>
-											<form action="#">
-												<div className="row mt-3">
-													<div className="col-md-6 ">
-														<label className="mb-1 mt-3 text-dark" htmlFor="name">Your name <span className="text-primary-1">*</span></label>
-														<input type="text" className="form-control border rounded-3" id="name" name="name" placeholder="John Doe" aria-label="username" />
-													</div>
-													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="email">Email address <span className="text-primary-1">*</span></label>
-														<input type="text" className="form-control border rounded-3" id="email" name="email" placeholder="contact.john@gmail.com" aria-label="email" />
-													</div>
-													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="phone">Your phone <span className="text-primary-1">*</span></label>
-														<input type="text" className="form-control border rounded-3" id="phone" name="phone" placeholder="+01 234 567 89" aria-label="phone" />
-													</div>
-													<div className="col-md-6">
-														<label className="mb-1 mt-3 text-dark" htmlFor="subject">Subject <span className="text-primary-1">*</span></label>
-														<input type="text" className="form-control border rounded-3" id="subject" name="subject" placeholder="I want to contact for...." aria-label="subject" />
-													</div>
-													<div className="col-12">
-														<label className="mb-1 mt-3 text-dark" htmlFor="message">Message <span className="text-primary-1">*</span></label>
-														<textarea className="form-control border rounded-3 pb-10" id="message" name="message" placeholder="Your message here...." aria-label="With textarea" />
-													</div>
-													<div className="col-12">
-														<button type="submit" className="btn btn-gradient mt-3">
-															Send Message
-															<i className="ri-arrow-right-up-line" />
-														</button>
-													</div>
-												</div>
-											</form>
-										</div>
-										<div className="z-0 bg-primary-dark rectangle-bg z-1 rounded-3" />
-									</div>
-								</div>
-							</div> */}
+							<span className="fs-5 fw-medium text-200 mb-4">
+										I'm always open to new projects and collaborating with innovative minds! If something here resonates with you, or you just want to say hi, I'd love to connect!
+									</span>
+									<a
+										href="mailto:bp23e@fsu.edu"
+										className="btn"
+										style={{
+										backgroundColor: '#6f42c1',
+										color: 'white',
+										padding: '10px 20px',
+										borderRadius: '5px',
+										}}
+									>
+										Contact Me
+									</a>
 						</div>
 						<div className="scroll-move-right position-absolute bottom-0 start-50 translate-middle-x bg-900 overflow-hidden">
 							<div className="wow img-custom-anim-top">
