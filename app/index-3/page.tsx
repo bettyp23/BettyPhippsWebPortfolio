@@ -434,51 +434,6 @@ export default function Home3() {
 										<div className="swiper-pagination" />
 									</div>
 								</div>
-								{/* <div id="portfolio" className="testimonials pt-60 border-bottom pb-80">
-									<h3>Testimonials</h3>
-									<div className="position-relative pt-4">
-										<Swiper {...swiperOptions} className="swiper slider-one pb-3 position-relative">
-											<div className="swiper-wrapper">
-												<SwiperSlide>
-													<div className="testimonials-block pe-5">
-														<img className="rounded-circle mb-2" src="assets/imgs/home-page-3/testimonials/author-1.png" alt="avatar" />
-														<p className="fs-5 text-dark">"Meisa's writing is simply magical. She has the ability to capture the essence of a story and preset it in the most captivating way."</p>
-														<div className="information ">
-															<p className="fs-6 text-primary-3">John Doe, <span className="text-300">Author</span></p>
-														</div>
-													</div>
-												</SwiperSlide>
-												<SwiperSlide>
-													<div className="testimonials-block pe-5">
-														<img className="rounded-circle mb-2" src="assets/imgs/home-page-3/testimonials/author-2.png" alt="avatar" />
-														<p className="fs-5 text-dark">"Working with Meisa was a fantastic experience. Her attention to detail and commitment to quality are unparalleled."</p>
-														<div className="information ">
-															<p className="fs-6 text-primary-3">Jane Smith, <span className="text-300">Editor</span></p>
-														</div>
-													</div>
-												</SwiperSlide>
-												<SwiperSlide>
-													<div className="testimonials-block pe-5">
-														<img className="rounded-circle mb-2" src="assets/imgs/home-page-3/testimonials/author-1.png" alt="avatar" />
-														<p className="fs-5 text-dark">"Meisa's writing is simply magical. She has the ability to capture the essence of a story and preset it in the most captivating way."</p>
-														<div className="information ">
-															<p className="fs-6 text-primary-3">John Doe, <span className="text-300">Author</span></p>
-														</div>
-													</div>
-												</SwiperSlide>
-												<SwiperSlide>
-													<div className="testimonials-block pe-5">
-														<img className="rounded-circle mb-2" src="assets/imgs/home-page-3/testimonials/author-2.png" alt="avatar" />
-														<p className="fs-5 text-dark">"Working with Meisa was a fantastic experience. Her attention to detail and commitment to quality are unparalleled."</p>
-														<div className="information ">
-															<p className="fs-6 text-primary-3">Jane Smith, <span className="text-300">Editor</span></p>
-														</div>
-													</div>
-												</SwiperSlide>
-											</div>
-										</Swiper>
-									</div>
-								</div> */}
 								<div id="contact" className="contact pt-70">
 									<h3>Contact me</h3>
 									<div className="d-flex align-items-center gap-5 mt-4">
