@@ -161,22 +161,21 @@ export default function WorkSingle() {
 					<section id="contact" className="section-contact-1 bg-900 position-relative pt-150 pb-lg-250 pb-150 overflow-hidden">
 						<div className="container position-relative z-1">
 							<h3 className="ds-3 mt-3 mb-3 text-primary-1">Get in touch</h3>
-							<span className="fs-5 fw-medium text-200">
-								I'm always open to new projects and collaborate with innovative minds!
-							</span>
-							<a
-								href="mailto:bp23e@fsu.edu"
-								className="btn"
-								style={{
-								  backgroundColor: '#6f42c1',
-								  color: 'white',
-								  padding: '10px 20px',
-								  borderRadius: '5px',
-								  marginTop: '100px', // Adjust this value to move the button down
-								}}
-							  >
-								Contact Me
-								</a>
+									<span className="fs-5 fw-medium text-200 mb-4">
+										I'm always open to new projects and collaborating with innovative minds! If something here resonates with you, or you just want to say hi, I'd love to connect!
+									</span>
+									<a
+										href="mailto:bp23e@fsu.edu"
+										className="btn"
+										style={{
+										backgroundColor: '#6f42c1',
+										color: 'white',
+										padding: '10px 20px',
+										borderRadius: '5px',
+										}}
+									>
+										Contact Me
+									</a>
 							{/* <div className="row mt-8">
 								<div className="col-lg-4 d-flex flex-column">
 									<div className="d-flex align-items-center mb-4 position-relative d-inline-flex">
