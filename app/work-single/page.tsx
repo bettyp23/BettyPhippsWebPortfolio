@@ -159,8 +159,8 @@ export default function WorkSingle() {
 					</div>
 					{/* Contact 1*/}
 					<section id="contact" className="section-contact-1 bg-900 position-relative pt-150 pb-lg-250 pb-150 overflow-hidden">
-						<div className="container position-relative z-1">
-							<h3 className="ds-3 mt-3 mb-3 text-primary-1">Get in touch</h3>
+						<div className="text-center">
+  <h3 className="ds-3 mt-3 mb-3 text-primary-1">Get in touch</h3>
 							<span className="fs-5 fw-medium text-200 mb-4 d-block text-center">
 							I'm always open to new projects and collaborating with innovative minds!
 							</span>
