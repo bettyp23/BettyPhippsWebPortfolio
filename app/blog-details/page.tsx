@@ -37,15 +37,13 @@ export default function BlogDetails() {
 											<h5 className="mt-6">Beyond the Dive</h5>
 											<p className="text-300">As someone entering the tech space, I can’t help but wonder: where do students and early-career professionals fit into all of this? What new roles in AI, infrastructure, or policy might emerge—and how can we best prepare to step into them?</p>
 											<p className="text-300">Will this shift further concentrate power among tech giants, or open the door to new public-private models of innovation?</p>
-											<h3 className="mt-6">Sources</h3>
-											<p>
-												https://www.reuters.com/technology/artificial-intelligence/nvidia-says-working-with-partners-make-ai-supercomputers-us-2025-04-14/?utm_source=chatgpt.com
+											<h5 className="mt-6">Sources</h5>
+											<p>https://www.reuters.com/technology/artificial-intelligence/nvidia-says-working-with-partners-make-ai-supercomputers-us-2025-04-14/?utm_source=chatgpt.com</p>
 
-												https://www.businessinsider.com/nvidia-us-manufacturing-blackwell-arizona-ai-supercomputer-texas-2025-4?utm_source=chatgpt.com
+											<p>https://www.businessinsider.com/nvidia-us-manufacturing-blackwell-arizona-ai-supercomputer-texas-2025-4?utm_source=chatgpt.com</p>
 
-												https://www.investopedia.com/nvidia-says-it-will-make-ai-supercomputers-in-us-with-usd500b-commitment-to-ai-infrastructure-11714581
-												https://www.ainvest.com/news/ai-infrastructure-gold-rush-nvidia-500-billion-gamble-investment-implications-2504/?utm_source=chatgpt.com
-												</p>
+											<p>https://www.investopedia.com/nvidia-says-it-will-make-ai-supercomputers-in-us-with-usd500b-commitment-to-ai-infrastructure-11714581</p>
+											<p>https://www.ainvest.com/news/ai-infrastructure-gold-rush-nvidia-500-billion-gamble-investment-implications-2504/?utm_source=chatgpt.com</p>
 										 <div className="d-flex align-items-center my-6">
 												<img src="/assets/imgs/blog/blog-1/img-10.png" alt="" />
 												<div className="d-md-flex flex-column d-none gap-3 ms-3">
