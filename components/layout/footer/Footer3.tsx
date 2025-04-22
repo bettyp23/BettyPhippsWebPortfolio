@@ -29,7 +29,7 @@ export default function Footer3() {
 								<a href="http://linkedin.com">
 									<i className="ri-linkedin-fill fs-18" />
 								</a>
-								<a href="http://github.com">
+								<a href="https://github.com/bettyp23">
 									<i className="ri-github-fill fs-18" />
 								</a>
 							</div>

@@ -33,7 +33,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isOffC
 								<Link href="https://www.linkedin.com/in/bettyphipps/">
 									<i className="ri-linkedin-fill fs-18" />
 								</Link>
-								<Link href="">
+								<Link href="https://github.com/bettyp23">
 									<i className="ri-github-fill fs-18" />
 								</Link>
 							</div>

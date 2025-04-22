@@ -17,7 +17,7 @@ export default function Home1() {
 								<i className="ri-download-line ms-2" />
 							</a> */}
 							<a 
-								href="/assets/resume/ResumeBettyPhipps.pdf" 
+								href="/assets/resume/ResumeBettyPhipps.pdf"
 								className="btn btn-gradient me-2" 
 								target="_blank" 
 								rel="noopener noreferrer"
