@@ -16,11 +16,19 @@ export default function Home1() {
 								Download Resume
 								<i className="ri-download-line ms-2" />
 							</a> */}
-							<a 
+							{/* <a 
 								href="/assets/resume/ResumeBettyPhipps.pdf"
 								className="btn btn-gradient me-2" 
 								target="_blank" 
 								rel="noopener noreferrer"
+								>
+								Download Resume
+								<i className="ri-download-line ms-2" />
+								</a> */}
+								<a 
+								href="/assets/resume/ResumeBettyPhipps.pdf"
+								className="btn btn-gradient me-2" 
+								download
 								>
 								Download Resume
 								<i className="ri-download-line ms-2" />
