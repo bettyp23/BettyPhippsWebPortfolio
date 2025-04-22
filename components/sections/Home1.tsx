@@ -12,10 +12,6 @@ export default function Home1() {
 							<p className="text-300 mb-6">
 								This portfolio highlights my skills, leadership, and projects as a computer science student, showcasing my growth in software development, entrepreneurship, and my commitment to innovation.
 							</p>
-							{/* <a href="/assets/resume/ResumeBettyPhipps.pdf" className="btn btn-gradient me-2" target="_blank">
-								Download Resume
-								<i className="ri-download-line ms-2" />
-							</a> */}
 							{/* <a 
 								href="/assets/resume/ResumeBettyPhipps.pdf"
 								className="btn btn-gradient me-2" 
