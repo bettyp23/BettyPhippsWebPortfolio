@@ -89,7 +89,7 @@
 // 								<Link href="/#" className="fs-5 fw-bold">Javascript,</Link>
 // 								<Link href="/#" className="fs-5 fw-bold">Bootstrap,</Link>
 // 								<Link href="/#" className="fs-5 fw-bold">TailwindCSS</Link>
-// 							</div>
+// 							</div
 // 						</div>
 // 					</div>
 // 				</div>
