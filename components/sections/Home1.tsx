@@ -12,23 +12,23 @@ export default function Home1() {
 							<p className="text-300 mb-6">
 								This portfolio highlights my skills, leadership, and projects as a computer science student, showcasing my growth in software development, entrepreneurship, and my commitment to innovation.
 							</p>
-							{/* <a 
-								href="/assets/resume/ResumeBettyPhipps.pdf"
+							<a 
+								href="https://www.linkedin.com/in/bettyphipps/overlay/1719062541735/single-media-viewer/?profileId=ACoAAEAubNoBlh476--cym8Q6f8Vy3HF_SKCrQo"
 								className="btn btn-gradient me-2" 
 								target="_blank" 
 								rel="noopener noreferrer"
 								>
 								Download Resume
 								<i className="ri-download-line ms-2" />
-								</a> */}
-								<a 
+								</a>
+								{/* <a 
 								href="/assets/resume/ResumeBettyPhipps.pdf"
 								className="btn btn-gradient me-2" 
 								download
 								>
 								Download Resume
 								<i className="ri-download-line ms-2" />
-								</a>
+								</a> */}
 							<Link href="/#contact" className="btn btn-outline-secondary d-inline-flex align-items-center">
 								<span>Connect with me!</span>
 								<i className="ri-arrow-right-line ms-2" />
