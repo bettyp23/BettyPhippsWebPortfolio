@@ -15,7 +15,7 @@ export default function BlogDetails2() {
 										<Link href="/#" className="btn btn-gradient d-inline-block text-uppercase"> AI </Link>
 										<h3 className="ds-3 mt-3 mb-4 text-dark">Nvidia’s Pivotal Plans to Transform the U.S. AI Infrastructure</h3>
 										<p className="text-300 fs-5 mb-0">
-											Nvidia officially announced groundbreaking plans to manufacture its AI supercomputers in the United States for the first time on April 14, 2025, marking a significant shift in its product strategy. 
+											PAGE  2 Nvidia officially announced groundbreaking plans to manufacture its AI supercomputers in the United States for the first time on April 14, 2025, marking a significant shift in its product strategy. 
 										</p>
 									</div>
 								</div>
