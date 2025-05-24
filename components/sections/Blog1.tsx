@@ -150,7 +150,7 @@ export default function Blog1() {
 			description: "Nvidia plans to produce its AI chips and systems domestically, signaling a shift in global chip manufacturing.",
 			image: "/assets/imgs/blog/blog-1/img-1.png",
 			tag: "AI",
-			link: "/blog-details/page.tsx",
+			link: "/blog-details",
 		},
 		{
 			id: "2",
