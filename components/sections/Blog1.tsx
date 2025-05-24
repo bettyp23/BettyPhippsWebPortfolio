@@ -37,6 +37,12 @@ export default function Blog1() {
 									<p className="blog-card__description fs-6">Nvidia officially announced groundbreaking plans to manufacture its AI supercomputers in the United States for the first time on April 14, 2025, marking a significant shift in its product strategy..</p>
 									<Link href="/blog-details" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
 								</div>
+								<div className="blog-card__content position-relative text-center mt-4">
+									<span className="blog-card__date fs-7">April 18, 2025 • 3 min read</span>
+									<h5 className="blog-card__title">Nvidia’s Pivotal Plans to Transform the U.S. AI Infrastructure</h5>
+									<p className="blog-card__description fs-6">Nvidia officially announced groundbreaking plans to manufacture its AI supercomputers in the United States for the first time on April 14, 2025, marking a significant shift in its product strategy..</p>
+									<Link href="/blog-details" className="link-overlay position-absolute top-0 start-0 w-100 h-100" />
+								</div>
 							</div>
 						</div>
 					</div>
